@@ -1,0 +1,21 @@
+${blue}               `..--..`
+${blue}            `.----------.`
+${blue}        `..----------------..`
+${blue}     `.------------------------.``
+${blue} `..-------------....-------------..`
+${blue}.::----------..``    ``..----------:+:
+${blue}:////:----..`            `..---:/ossso
+${blue}:///////:`                  `/osssssso
+${blue}:///////:                    /ssssssso
+${blue}:///////:                    /ssssssso
+${blue}:///////:                    /ssssssso
+${blue}:///////:                    /ssssssso
+${blue}:///////:                    /ssssssso
+${blue}:////////-`                .:sssssssso
+${blue}:///////////-.`        `-/osssssssssso
+${blue}`//////////////:-```.:+ssssssssssssso-
+${blue}  .-://////////////sssssssssssssso/-`
+${blue}     `.:///////////sssssssssssssso:.
+${blue}         .-:///////ssssssssssssssssss/`
+${blue}            `.:////ssss+/+ssssssssssss.
+${blue}                `--//-    `-/osssso/.

@@ -1,0 +1,20 @@
+${yellow}             `......`
+${yellow}        -+shmNMMMMMMNmhs/.
+${yellow}     :smMMMMMmmhyyhmmMMMMMmo-
+${yellow}   -hMMMMd+:. `----` .:odMMMMh-
+${yellow} `hMMMN+. .odNMMMMMMNdo. .yMMMMs`
+${yellow} hMMMd. -dMMMMmdhhdNMMMNh` .mMMMh
+${yellow}oMMMm` :MMMNs.:sddy:-sMMMN- `NMMM+
+${yellow}mMMMs  dMMMo sMMMMMMd yMMMd  sMMMm
+${yellow}----`  .---` oNMMMMMh `---.  .----
+${yellow}              .sMMy:
+${yellow}               /MM/
+${yellow}              +dMMms.
+${yellow}             hMMMMMMN
+${yellow}            `dMMMMMMm:
+${yellow}      .+ss+sMNysMMoomMd+ss+.
+${yellow}     +MMMMMMN` +MM/  hMMMMMNs
+${yellow}     sMMMMMMm-hNMMMd-hMMMMMMd
+${yellow}      :yddh+`hMMMMMMN :yddy/`
+${yellow}             .hMMMMd:
+${yellow}               `..`

@@ -1,0 +1,20 @@
+${cyan}             `.-://////:--`
+${cyan}         .:/oooooooooooooooo+:.
+${cyan}      `:+ooooooooooooooooooooooo:`
+${cyan}    `:oooooooooooooooooooooooooooo/`
+${cyan}    ..```-oooooo/-`` `:oooooo+:.` `--
+${cyan}  :.      +oo+-`       /ooo/`       -/
+${cyan} -o.     `o+-          +o/`         -o:
+${cyan}`oo`     ::`  :o/     `+.  .+o`     /oo.
+${cyan}/o+      .  -+oo-     `   /oo/     `ooo/
+${cyan}+o-        /ooo+`       .+ooo.     :ooo+
+${cyan}++       .+oooo:       -oooo+     `oooo+
+${cyan}:.      .oooooo`      :ooooo-     :oooo:
+${cyan}`      .oooooo:      :ooooo+     `ooo+-`
+${cyan}      .+oooooo`     -oooooo:     `o/-
+${cyan}      +oooooo:     .ooooooo.
+${cyan}     /ooooooo`     /ooooooo/       ..
+${cyan}    `:oooooooo/:::/ooooooooo+:--:/:`
+${cyan}      `:+oooooooooooooooooooooo+:`
+${cyan}         .:+oooooooooooooooo+:.
+${cyan}             `.-://////:-.`

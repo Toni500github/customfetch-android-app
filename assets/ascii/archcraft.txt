@@ -1,0 +1,18 @@
+${cyan}                   -m:
+${cyan}                  :NMM+      .+
+${cyan}                 +MMMMMo    -NMy
+${cyan}                sMMMMMMMy  -MMMMh`
+${cyan}               yMMMMMMMMMd` oMMMMd`
+${cyan}             `dMMMMMMMMMMMm. /MMMMm-
+${cyan}            .mMMMMMm-dMMMMMN- :NMMMN:
+${cyan}           -NMMMMMd`  yMMMMMN: .mMMMM/
+${cyan}          :NMMMMMy     sMMMMMM+ `dMMMMo
+${cyan}         +MMMMMMs       +MMMMMMs `hMMMMy
+${cyan}        oMMMMMMMds-      :NMMMMMy  sMMMMh`
+${cyan}       yMMMMMNoydMMmo`    -NMMMMMd` +MMMMd.
+${cyan}     `dMMMMMN-   `:yNNs`   .mMMMMMm. /MMMMm-
+${cyan}    .mMMMMMm.        :hN/   `dMMMMMN- -NMMMN:
+${cyan}   -NMMMMMd`           -hh`  `yMMMMMN: .mMMMM/
+${cyan}  :NMMMMMy         `s`   :h.   oMMMMMM+ `-----
+${cyan} +MMMMMMo         .dMm.   `o.   +MMMMMMo
+${cyan}sMMMMMM+         .mMMMN:    :`   :NMMMMMy

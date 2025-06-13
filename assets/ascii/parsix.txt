@@ -1,0 +1,21 @@
+                 ${red}-/+/:.
+               ${red}.syssssys.
+       ${yellow}.--.    ${red}ssssssssso${yellow}   ..--.
+     ${yellow}:++++++:  ${red}+ssssssss+${yellow} ./++/+++:
+    ${yellow}/+++++++++.${red}.yssooooy`${yellow}-+///////o-
+    ${yellow}/++++++++++.${red}+soooos:${yellow}:+////////+-
+     ${yellow}:+++++////o-${red}oooooo-${yellow}+/////////-
+      `${yellow}-/++//++-${black}.-----.-${yellow}:+/////:-
+  ${white}-://::--${yellow}-:/:${black}.--.````.--.${yellow}:::-${white}--::::::.
+${white}-/:::::::://:${black}.:-`      `-:${white}`:/:::::::--/-
+${white}/::::::::::/-${black}--.        .-.${white}-/://///::::/
+${white}-/:::::::::/:${black}`:-.      .-:${white}`:///////////-
+ `${white}-::::--${yellow}.-://.${black}---....---${yellow}`:+/:-${white}--::::-`
+       ${yellow}-/+///+o/-${black}.----.${yellow}.:oo+++o+.
+     ${yellow}-+/////+++o:${red}syyyyy.${yellow}o+++++++++:
+    ${yellow}.+////+++++-${red}+sssssy+${yellow}.++++++++++\
+    ${yellow}.+:/++++++.${red}.yssssssy-${yellow}`+++++++++:
+     ${yellow}:/+++++-  ${red}+sssssssss  ${yellow}-++++++-
+       ${yellow}`--`    ${red}+sssssssso    ${yellow}`--`
+                ${red}+sssssy+`
+                 ${red}`.::-`

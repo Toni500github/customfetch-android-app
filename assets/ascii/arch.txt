@@ -1,0 +1,19 @@
+${cyan}                   -`
+${cyan}                  .o+`
+${cyan}                 `ooo/
+${cyan}                `+oooo:
+${cyan}               `+oooooo:
+${cyan}               -+oooooo+:
+${cyan}             `/:-:++oooo+:
+${cyan}            `/++++/+++++++:
+${cyan}           `/++++++++++++++:
+${cyan}          `/+++ooooooooooooo/`
+${cyan}         ./ooosssso++osssssso+`
+${cyan}        .oossssso-````/ossssss+`
+${cyan}       -osssssso.      :ssssssso.
+${cyan}      :osssssss/        osssso+++.
+${cyan}     /ossssssss/        +ssssooo/-
+${cyan}   `/ossssso+/:-        -:/+osssso+-
+${cyan}  `+sso+:-`                 `.-/+oso:
+${cyan} `++:.                           `-/+/
+${cyan} .`                                 `/

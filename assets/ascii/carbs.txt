@@ -1,0 +1,18 @@
+${magenta}${blue}${magenta}             ..........
+${magenta}          ..,;:ccccccc:;'..
+${magenta}       ..,clllc:;;;;;:cllc,.
+${magenta}      .,cllc,...     ..';;'.
+${magenta}     .;lol;..           ..
+${magenta}    .,lol;.
+${magenta}    .coo:.
+${magenta}   .'lol,.
+${magenta}   .,lol,.
+${magenta}   .,lol,.
+${magenta}    'col;.
+${magenta}    .:ooc'.
+${magenta}    .'col:.
+${magenta}     .'cllc'..          .''.
+${magenta}      ..:lolc,'.......',cll,.
+${magenta}        ..;cllllccccclllc;'.
+${magenta}          ...',;;;;;;,,...
+${magenta}                .....

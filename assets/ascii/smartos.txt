@@ -1,0 +1,17 @@
+${cyan}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+${cyan}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+${cyan}yyyys             oyyyyyyyyyyyyyyyy
+${cyan}yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy
+${cyan}yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy
+${cyan}yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy
+${cyan}yyyys  yyyyyyyyy  oyyyyyyyyyyyyyyyy
+${cyan}yyyys  yyyyyyyyyyyyyyyyyyyyyyyyyyyy
+${cyan}yyyyy                         syyyy
+${cyan}yyyyyyyyyyyyyyyyyyyyyyyyyyyy  syyyy
+${cyan}yyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy
+${cyan}yyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy
+${cyan}yyyyyyyyyyyyyyyy  oyyyyyyyyy  syyyy
+${cyan}yyyyyyyyyyyyyyyy  syyyyyyyyy  syyyy
+${cyan}yyyyyyyyyyyyyyyy              yyyyy
+${cyan}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+${cyan}yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy

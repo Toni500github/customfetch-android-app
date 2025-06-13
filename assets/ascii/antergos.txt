@@ -1,0 +1,19 @@
+${cyan}              `.-/::/-``
+${cyan}            .-/osssssssso/.
+${cyan}           :osyysssssssyyys+-
+${cyan}        `.+yyyysssssssssyyyyy+.
+${cyan}       `/syyyyyssssssssssyyyyys-`
+${cyan}      `/yhyyyyysss${blue}++${cyan}ssosyyyyhhy/`
+${cyan}     .ohhhyyyys${blue}o++/+o${cyan}so${blue}+${cyan}syy${blue}+${cyan}shhhho.
+${cyan}    .shhhhys${blue}oo++//+${cyan}sss${blue}+++${cyan}yyy${blue}+s${cyan}hhhhs.
+${cyan}   -yhhhhs${blue}+++++++o${cyan}ssso${blue}+++${cyan}yyy${blue}s+o${cyan}hhddy:
+${cyan}  -yddhhy${blue}o+++++o${cyan}syyss${blue}++++${cyan}yyy${blue}yooy${cyan}hdddy-
+${cyan} .yddddhs${blue}o++o${cyan}syyyyys${blue}+++++${cyan}yyhh${blue}sos${cyan}hddddy`
+${cyan}`odddddhyosyhyyyyyy${blue}++++++${cyan}yhhhyosddddddo
+${cyan}.dmdddddhhhhhhhyyyo${blue}+++++${cyan}shhhhhohddddmmh.
+${cyan}ddmmdddddhhhhhhhso${blue}++++++${cyan}yhhhhhhdddddmmdy
+${cyan}dmmmdddddddhhhyso${blue}++++++${cyan}shhhhhddddddmmmmh
+${cyan}-dmmmdddddddhhys${blue}o++++o${cyan}shhhhdddddddmmmmd-
+${cyan}.smmmmddddddddhhhhhhhhhdddddddddmmmms.
+${cyan}   `+ydmmmdddddddddddddddddddmmmmdy/.
+${cyan}      `.:+ooyyddddddddddddyyso+:.`

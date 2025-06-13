@@ -1,0 +1,15 @@
+${1}        .;ldkOKXXNNNNXXK0Oxoc,.
+${1}   ,lkXMMNK0OkkxkkOKWMMMMMMMMMM;
+${1} 'K0xo  ..,;:c:.     `'lKMMMMM0
+${1}     .lONMMMMMM'         `lNMk'
+${1}    ;WMMMMMMMMMO.              ${blue}....::...
+${1}    OMMMMMMMMMMMMKl.       ${blue}.,;;;;;ccccccc,
+${1}    `0MMMMMMMMMMMMMM0:         ${blue}.. .ccccccc.
+${1}      'kWMMMMMMMMMMMMMNo.   ${blue}.,:'  .ccccccc.
+${1}        `c0MMMMMMMMMMMMMN,${blue},:c;    :cccccc:
+${1} ckl.      `lXMMMMMMMMMX${blue}occcc:.. ;ccccccc.
+${1}dMMMMXd,     `OMMMMMMWk${blue}ccc;:''` ,ccccccc:
+${1}XMMMMMMMWKkxxOWMMMMMNo${blue}ccc;     .cccccccc.
+${1} `':ldxO0KXXXXXK0Okdo${blue}cccc.     :cccccccc.
+${blue}                    :ccc:'     `cccccccc:,
+${blue}                                   ''

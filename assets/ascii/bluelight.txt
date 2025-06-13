@@ -1,0 +1,19 @@
+${1}              oMMNMMMMMMMMMMMMMMMMMMMMMM
+${1}              oMMMMMMMMMMMMMMMMMMMMMMMMM
+${1}              oMMMMMMMMMMMMMMMMMMMMMMMMM
+${1}              oMMMMMMMMMMMMMMMMMMMMMMMMM
+${1}              -+++++++++++++++++++++++mM${blue}
+${blue}             ```````````````````````..${1}dM${blue}
+${blue}           ```````````````````````....${1}dM${blue}
+${blue}         ```````````````````````......${1}dM${blue}
+${blue}       ```````````````````````........${1}dM${blue}
+${blue}     ```````````````````````..........${1}dM${blue}
+${blue}   ```````````````````````............${1}dM${blue}
+${blue}.::::::::::::::::::::::-..............${1}dM${blue}
+${blue} `-+yyyyyyyyyyyyyyyyyyyo............${1}+mMM${blue}
+${blue}     -+yyyyyyyyyyyyyyyyo..........${1}+mMMMM${blue}
+${blue}        ./syyyyyyyyyyyyo........${1}+mMMMMMM${blue}
+${blue}           ./oyyyyyyyyyo......${1}+mMMMMMMMM${blue}
+${blue}              omdyyyyyyo....${1}+mMMMMMMMMMM${blue}
+${1}              oMMM${blue}mdhyyo..${1}+mMMMMMMMMMMMM
+${1}              oNNNNNNm${blue}dso${1}mMMMMMMMMMMMMMM

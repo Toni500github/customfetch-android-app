@@ -1,0 +1,20 @@
+${blue}       .hddddddddddddddddddddddh.
+${blue}      :dddddddddddddddddddddddddd:
+${blue}     /dddddddddddddddddddddddddddd/
+${blue}    +dddddddddddddddddddddddddddddd+
+${blue}  `sdddddddddddddddddddddddddddddddds`
+${blue} `ydddddddddddd++hdddddddddddddddddddy`
+${blue}.hddddddddddd+`  `+ddddh:-sdddddddddddh.
+${blue}hdddddddddd+`      `+y:    .sddddddddddh
+${blue}ddddddddh+`   `//`   `.`     -sddddddddd
+${blue}ddddddh+`   `/hddh/`   `:s-    -sddddddd
+${blue}ddddh+`   `/+/dddddh/`   `+s-    -sddddd
+${blue}ddd+`   `/o` :dddddddh/`   `oy-    .yddd
+${blue}hdddyo+ohddyosdddddddddho+oydddy++ohdddh
+${blue}.hddddddddddddddddddddddddddddddddddddh.
+${blue} `yddddddddddddddddddddddddddddddddddy`
+${blue}  `sdddddddddddddddddddddddddddddddds`
+${blue}    +dddddddddddddddddddddddddddddd+
+${blue}     /dddddddddddddddddddddddddddd/
+${blue}      :dddddddddddddddddddddddddd:
+${blue}       .hddddddddddddddddddddddh.

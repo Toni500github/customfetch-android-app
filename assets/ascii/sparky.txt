@@ -1,0 +1,21 @@
+${red}
+${red}           .            `-:-`
+${red}          .o`       .-///-`
+${red}         `oo`    .:/++:.
+${red}         os+`  -/+++:` ``.........```
+${red}        /ys+`./+++/-.-::::::----......``
+${red}       `syyo`++o+--::::-::/+++/-``
+${red}       -yyy+.+o+`:/:-:sdmmmmmmmmdy+-`
+${red}::-`   :yyy/-oo.-+/`ymho++++++oyhdmdy/`
+${red}`/yy+-`.syyo`+o..o--h..osyhhddhs+//osyy/`
+${red}  -ydhs+-oyy/.+o.-: ` `  :/::+ydhy+```-os-
+${red}   .sdddy::syo--/:.     `.:dy+-ohhho    ./:
+${red}     :yddds/:+oo+//:-`- /+ +hy+.shhy:     ``
+${red}      `:ydmmdysooooooo-.ss`/yss--oyyo
+${red}        `./ossyyyyo+:-/oo:.osso- .oys
+${red}       ``..-------::////.-oooo/   :so
+${red}    `...----::::::::--.`/oooo:    .o:
+${red}           ```````     ++o+:`     `:`
+${red}                     ./+/-`        `
+${red}                   `-:-.
+${red}                   ``

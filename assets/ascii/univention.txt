@@ -1,0 +1,20 @@
+${red}         ./osssssssssssssssssssssso+-
+${red}       `ohhhhhhhhhhhhhhhhhhhhhhhhhhhhy:
+${red}       shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-
+${red}   `-//${1}sssss${red}/hhhhhhhhhhhhhh+${1}s${red}.hhhhhhhhh+
+${red} .ohhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sss${red}+hhhhhhh+
+${red}.yhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}ssss${red}:hhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}sssss${red}.hhhhhhhhhhhhhh.${1}sssss${red}yhhhhh+
+${red}+hhhhhy${1}ssssss${red}+yhhhhhhhhhhy/${1}ssssss${red}yhhhhh+
+${red}+hhhhhh:${1}sssssss${red}:hhhhhhh+${1}.ssssssss${red}yhhhhy.
+${red}+hhhhhhh+`${1}ssssssssssssssss${red}hh${1}sssss${red}yhhho`
+${red}+hhhhhhhhhs+${1}ssssssssssss${red}+hh+${1}sssss${red}/:-`
+${red}-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhho
+${red} :yhhhhhhhhhhhhhhhhhhhhhhhhhhhh+`
+${red}   -+ossssssssssssssssssssss+:`

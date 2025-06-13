@@ -1,0 +1,17 @@
+${blue}${magenta}
+${white}          ./o.
+${white}        .oooooooo
+${white}      .oooo```soooo
+${white}    .oooo`     `soooo
+${white}   .ooo`   ${cyan}.o.${white}   `\\/ooo.
+${white}   :ooo   ${cyan}:oooo.${white}   `\\/ooo.
+${white}    sooo    ${cyan}`ooooo${white}    \\/oooo
+${white}     \\/ooo    ${cyan}`soooo${white}    `ooooo
+${white}      `soooo    ${cyan}`\\/ooo${white}    `soooo
+${cyan}./oo    ${white}`\\/ooo    ${cyan}`/oooo.${white}   `/ooo
+${cyan}`\\/ooo.   ${white}`/oooo.   ${cyan}`/oooo.${white}   ``
+${cyan}  `\\/ooo.    ${white}/oooo     ${cyan}/ooo`
+${cyan}     `ooooo    ${white}``    ${cyan}.oooo
+${cyan}       `soooo.     .oooo`
+${cyan}         `\\/oooooooooo`
+${cyan}            ``\\/oo``

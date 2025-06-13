@@ -1,0 +1,23 @@
+${blue}          `++/::-.`
+${blue}         /o+++++++++/::-.`
+${blue}        `o+++++++++++++++o++/::-.`
+${blue}        /+++++++++++++++++++++++oo++/:-.``
+${blue}       .o+ooooooooooooooooooosssssssso++oo++/:-`
+${blue}       ++osoooooooooooosssssssssssssyyo+++++++o:
+${blue}      -o+ssoooooooooooosssssssssssssyyo+++++++s`
+${blue}      o++ssoooooo++++++++++++++sssyyyyo++++++o:
+${blue}     :o++ssoooooo${white}${black}/-------------${blue}+syyyyyo+++++oo
+${blue}    `o+++ssoooooo${black}/-----${blue}+++++ooosyyyyyyo++++os:
+${blue}    /o+++ssoooooo${black}/-----${blue}ooooooosyyyyyyyo+oooss
+${blue}   .o++++ssooooos${black}/------------${blue}syyyyyyhsosssy-
+${blue}   ++++++ssooooss${black}/-----${blue}+++++ooyyhhhhhdssssso
+${blue}  -s+++++syssssss${black}/-----${blue}yyhhhhhhhhhhhddssssy.
+${blue}  sooooooyhyyyyyh${black}/-----${blue}hhhhhhhhhhhddddyssy+
+${blue} :yooooooyhyyyhhhyyyyyyhhhhhhhhhhdddddyssy`
+${blue} yoooooooyhyyhhhhhhhhhhhhhhhhhhhddddddysy/
+${blue}-ysooooooydhhhhhhhhhhhddddddddddddddddssy
+${blue} .-:/+osssyyyysyyyyyyyyyyyyyyyyyyyyyyssy:
+${blue}       ``.-/+oosysssssssssssssssssssssss
+${blue}               ``.:/+osyysssssssssssssh.
+${blue}                        `-:/+osyyssssyo
+${blue}                                .-:+++`

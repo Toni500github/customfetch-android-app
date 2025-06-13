@@ -1,0 +1,18 @@
+${blue}${white}           `-/osyyyysosyhhhhhyys+-
+${white}  -ohmNNmh+/hMMMMMMMMNNNNd+dMMMMNM+
+${white} yMMMMNNmmddo/NMMMNNNNNNNNNo+NNNNNy
+${white}.NNNNNNmmmddds:MMNNNNNNNNNNNh:mNNN/
+${white}-NNNdyyyhdmmmd`dNNNNNmmmmNNmdd/os/
+${white}.Nm+shddyooo+/smNNNNmmmmNh.   :mmd.
+${white} NNNNy:`   ./hmmmmmmmNNNN:     hNMh
+${white} NMN-    -++- +NNNNNNNNNNm+..-sMMMM-
+${white}.MMo    oNNNNo hNNNNNNNNmhdNNNMMMMM+
+${white}.MMs    /NNNN/ dNmhs+:-`  yMMMMMMMM+
+${white} mMM+     .. `sNN+.      hMMMMhhMMM-
+${white} +MMMmo:...:sNMMMMMms:` hMMMMm.hMMy
+${white}  yMMMMMMMMMMMNdMMMMMM::/+o+//dMMd`
+${white}   sMMMMMMMMMMN+:oyyo:sMMMNNMMMNy`
+${white}    :mMMMMMMMMMMMmddNMMMMMMMMmh/
+${white}      /dMMMMMMMMMMMMMMMMMMNdy/`
+${white}        .+hNMMMMMMMMMNmdhs/.
+${white}            .:/+ooo+/:-.

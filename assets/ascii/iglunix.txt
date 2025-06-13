@@ -1,0 +1,12 @@
+${black}${white}     |
+${black}     |        |
+${black}              |
+${black}|    ________
+${black}|  /\\   |    \\
+${black}  /  \\  |     \\  |
+${black} /    \\        \\ |
+${black}/      \\________\\
+${black}\\      /        /
+${black} \\    /        /
+${black}  \\  /        /
+${black}   \\/________/

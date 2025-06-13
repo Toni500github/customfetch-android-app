@@ -1,0 +1,18 @@
+${green}         -o          o-
+${green}          +hydNNNNdyh+
+${green}        +mMMMMMMMMMMMMm+
+${green}      `dMM${white}m:${green}NMMMMMMN${white}:m${green}MMd`
+${green}      hMMMMMMMMMMMMMMMMMMh
+${green}  ..  yyyyyyyyyyyyyyyyyyyy  ..
+${green}.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.
+${green}:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+${green}:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+${green}:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+${green}:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+${green}-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+${green} +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+${green}      mMMMMMMMMMMMMMMMMMMm
+${green}      `/++MMMMh++hMMMM++/`
+${green}          MMMMo  oMMMM
+${green}          MMMMo  oMMMM
+${green}          oNMm-  -mMNs

@@ -1,0 +1,15 @@
+${magenta}   ..,,;;;::;,..
+${magenta}           `':ddd;:,.
+${magenta}                 `'dPPd:,.
+${magenta}                     `:b$$b`.
+${magenta}                        'P$$$d`
+${magenta}                         .$$$$$`
+${magenta}                         ;$$$$$P
+${magenta}                      .:P$$$$$$`
+${magenta}                  .,:b$$$$$$$;'
+${magenta}             .,:dP$$$$$$$$b:'
+${magenta}      .,:;db$$$$$$$$$$Pd'`
+${magenta} ,db$$$$$$$$$$$$$$b:'`
+${magenta}:$$$$$$$$$$$$b:'`
+${magenta} `$$$$$bd:''`
+${magenta}   `'''`

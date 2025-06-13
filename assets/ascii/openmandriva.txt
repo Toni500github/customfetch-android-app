@@ -1,0 +1,22 @@
+${blue}                  ``````
+${blue}            `-:/+++++++//:-.`
+${blue}         .:+++oooo+/:.``   ``
+${blue}      `:+ooooooo+:.  `-:/++++++/:.`
+${blue}     -+oooooooo:` `-++o+/::::://+o+/-
+${blue}   `/ooooooooo-  -+oo/.`        `-/oo+.
+${blue}  `+ooooooooo.  :os/`              .+so:
+${blue}  +sssssssss/  :ss/                 `+ss-
+${blue} :ssssssssss`  sss`                  .sso
+${blue} ossssssssss  `yyo                    sys
+${blue}`sssssssssss` `yys                   `yys
+${blue}`sssssssssss:  +yy/                  +yy:
+${blue} oyyyyyyyyyys. `oyy/`              `+yy+
+${blue} :yyyyyyyyyyyo. `+yhs:.         `./shy/
+${blue}  oyyyyyyyyyyys:` .oyhys+:----/+syhy+. `
+${blue}  `syyyyyyyyyyyyo-` .:osyhhhhhyys+:``.:`
+${blue}   `oyyyyyyyyyyyyys+-`` `.----.```./oo.
+${blue}     /yhhhhhhhhhhhhhhyso+//://+osyhy/`
+${blue}      `/yhhhhhhhhhhhhhhhhhhhhhhhhy/`
+${blue}        `:oyhhhhhhhhhhhhhhhhhhyo:`
+${blue}            .:+syhhhhhhhhys+:-`
+${blue}                 ``....``

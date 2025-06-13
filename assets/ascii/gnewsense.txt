@@ -1,0 +1,12 @@
+${blue}                     ..,,,,..
+${blue}               .oocchhhhhhhhhhccoo.
+${blue}        .ochhlllllllc hhhhhh ollllllhhco.
+${blue}    ochlllllllllll hhhllllllhhh lllllllllllhco
+${blue} .cllllllllllllll hlllllo  +hllh llllllllllllllc.
+${blue}ollllllllllhco''  hlllllo  +hllh  ``ochllllllllllo
+${blue}hllllllllc'       hllllllllllllh       `cllllllllh
+${blue}ollllllh          +llllllllllll+          hllllllo
+${blue} `cllllh.           ohllllllho           .hllllc'
+${blue}    ochllc.            ++++            .cllhco
+${blue}       `+occooo+.                .+ooocco+'
+${blue}              `+oo++++      ++++oo+'

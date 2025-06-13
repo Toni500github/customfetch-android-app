@@ -1,0 +1,15 @@
+${yellow}${red}
+${white}
+${white}
+${white}           MMMM              MMMM
+${white}           MMMM              MMMM
+${white}           MMMM              MMMM
+${white}           MMMM              MMMM
+${white}           MMMM${green}       .ciO| /YMMMMM*"
+${white}           MMMM${green}   .cOMMMMM|/MMMMM/`
+${green} ,         ,iMM|/MMMMMMMMMMMMMMM*
+${green}  `*.__,-cMMMMMMMMMMMMMMMMM/`${white}.MMM
+${white}           MM${green}MMMMMMM/`:MMM/  ${white}MMMM
+${white}           MMMM              MMMM
+${white}           MMMM              MMMM
+${white}           """"              """"

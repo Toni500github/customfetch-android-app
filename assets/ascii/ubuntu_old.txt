@@ -1,0 +1,18 @@
+${red}                         ./+o+-
+${1}                 yyyyy- ${red}-yyyyyy+
+${1}              ${1}://+//////${red}-yyyyyyo
+${yellow}          .++ ${1}.:/++++++/-${red}.+sss/`
+${yellow}        .:++o:  ${1}/++++++++/:--:/-
+${yellow}       o:+o+:++.${1}`..```.-/oo+++++/
+${yellow}      .:+o:+o/.${1}          `+sssoo+/
+${1} .++/+:${yellow}+oo+o:`${1}             /sssooo.
+${1}/+++//+:${yellow}`oo+o${1}               /::--:.
+${1}+/+o+++${yellow}`o++o${red}               ++////.
+${1} .++.o+${yellow}++oo+:`${red}             /dddhhh.
+${yellow}      .+.o+oo:.${red}          `oddhhhh+
+${yellow}       +.++o+o`${red}`-````.:ohdhhhhh+
+${yellow}        `:o+++ ${red}`ohhhhhhhhyo++os:
+${yellow}          .o:${red}`.syhhhhhhh/${yellow}.oo++o`
+${red}              /osyyyyyyo${yellow}++ooo+++/
+${red}                  ````` ${yellow}+oo+++o:
+${yellow}                         `oo++.

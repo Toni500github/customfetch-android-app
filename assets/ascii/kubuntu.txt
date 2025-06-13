@@ -1,0 +1,20 @@
+${blue}           `.:/ossyyyysso/:.
+${blue}        .:oyyyyyyyyyyyyyyyyyyo:`
+${blue}      -oyyyyyyyo${1}dMMy${blue}yyyyyyysyyyyo-
+${blue}    -syyyyyyyyyy${1}dMMy${blue}oyyyy${1}dmMMy${blue}yyyys-
+${blue}   oyyys${1}dMy${blue}syyyy${1}dMMMMMMMMMMMMMy${blue}yyyyyyo
+${blue} `oyyyy${1}dMMMMy${blue}syysoooooo${1}dMMMMy${blue}yyyyyyyyo`
+${blue} oyyyyyy${1}dMMMMy${blue}yyyyyyyyyyys${1}dMMy${blue}sssssyyyo
+${blue}-yyyyyyyy${1}dMy${blue}syyyyyyyyyyyyyys${1}dMMMMMy${blue}syyy-
+${blue}oyyyysoo${1}dMy${blue}yyyyyyyyyyyyyyyyyy${1}dMMMMy${blue}syyyo
+${blue}yyys${1}dMMMMMy${blue}yyyyyyyyyyyyyyyyyysosyyyyyyyy
+${blue}yyys${1}dMMMMMy${blue}yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+${blue}oyyyyysos${1}dy${blue}yyyyyyyyyyyyyyyyyy${1}dMMMMy${blue}syyyo
+${blue}-yyyyyyyy${1}dMy${blue}syyyyyyyyyyyyyys${1}dMMMMMy${blue}syyy-
+${blue} oyyyyyy${1}dMMMy${blue}syyyyyyyyyyys${1}dMMy${blue}oyyyoyyyo
+${blue} `oyyyy${1}dMMMy${blue}syyyoooooo${1}dMMMMy${blue}oyyyyyyyyo
+${blue}   oyyysyyoyyyys${1}dMMMMMMMMMMMy${blue}yyyyyyyo
+${blue}    -syyyyyyyyy${1}dMMMy${blue}syyy${1}dMMMy${blue}syyyys-
+${blue}      -oyyyyyyy${1}dMMy${blue}yyyyyysosyyyyo-
+${blue}        ./oyyyyyyyyyyyyyyyyyyo/.
+${blue}           `.:/oosyyyysso/:.`

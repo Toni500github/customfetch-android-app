@@ -1,0 +1,18 @@
+${magenta}${blue}         odddd
+${blue}      oddxkkkxxdoo
+${blue}     ddcoddxxxdoool
+${blue}     xdclodod  olol
+${blue}     xoc  xdd  olol
+${blue}     xdc  ${magenta}k00${blue}Okdlol
+${blue}     xxd${magenta}kOKKKOkd${blue}ldd
+${blue}     xdco${magenta}xOkdlo${blue}dldd
+${blue}     ddc:cl${magenta}lll${blue}oooodo
+${blue}   odxxdd${white}xkO000kx${blue}ooxdo
+${blue}  oxdd${white}x0NMMMMMMWW0od${blue}kkxo
+${blue} oooxd${white}0WMMMMMMMMMW0o${blue}dxkx
+${blue}docldkXW${white}MMMMMMMWWN${blue}Odolco
+${blue}xx${magenta}dx${blue}kxxOKN${white}WMMWN${blue}0xdoxo::c
+${magenta}xOkkO${blue}0oo${white}odOW${magenta}WW${blue}XkdodOxc:l
+${magenta}dkkkxkkk${white}OKX${magenta}NNNX0Oxx${blue}xc:cd
+${magenta} odxxdx${white}xllod${magenta}ddooxx${blue}dc:ldo
+${magenta}   lodd${blue}dolccc${magenta}ccox${blue}xoloo

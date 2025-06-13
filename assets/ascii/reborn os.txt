@@ -1,0 +1,18 @@
+${green}${black}
+${black}        mMMMMMMMMM  MMMMMMMMMm
+${black}       NM                    MN
+${black}      MM  ${green}dddddddd  dddddddd  ${black}MN
+${black}     mM  ${green}dd                dd  ${black}MM
+${black}        ${green}dd  hhhhhh   hhhhh  dd
+${black}   ${black}mM      ${green}hh            hh      ${black}Mm
+${black}  NM  ${green}hd       ${black}mMMMMMMd       ${green}dh  ${black}MN
+${black} NM  ${green}dd  hh   ${black}mMMMMMMMMm   ${green}hh  dd  ${black}MN
+${black}NM  ${green}dd  hh   ${black}mMMMMMMMMMMm   ${green}hh  dd  ${black}MN
+${black} NM  ${green}dd  hh   ${black}mMMMMMMMMm   ${green}hh  dd  ${black}MN
+${black}  NM  ${green}hd       ${black}mMMMMMMm       ${green}dh  ${black}MN
+${black}   mM      ${green}hh            hh      ${black}Mm
+${black}        ${green}dd  hhhhhh  hhhhhh  dd
+${black}     ${black}MM  ${green}dd                dd  ${black}MM
+${black}      MM  ${green}dddddddd  dddddddd  ${black}MN
+${black}       NM                    MN
+${black}        mMMMMMMMMM  MMMMMMMMMm

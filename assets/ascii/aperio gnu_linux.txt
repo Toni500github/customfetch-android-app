@@ -1,0 +1,4 @@
+${black}
+${black} _.._  _ ._.. _
+${black}(_][_)(/,[  |(_)
+${black}   |   GNU/Linux

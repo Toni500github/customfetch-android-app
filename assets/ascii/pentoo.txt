@@ -1,0 +1,21 @@
+${magenta}${white}           `:oydNNMMMMNNdyo:`
+${white}        :yNMMMMMMMMMMMMMMMMNy:
+${white}      :dMMMMMMMMMMMMMMMMMMMMMMd:
+${white}     oMMMMMMMho/-....-/ohMMMMMMMo
+${white}    oMMMMMMy.            .yMMMMMMo
+${white}   .MMMMMMo                oMMMMMM.
+${white}   +MMMMMm                  mMMMMM+
+${white}   oMMMMMh                  hMMMMMo
+${white} //hMMMMMm//${magenta}`${white}          ${magenta}`${white}////mMMMMMh//
+${white}MMMMMMMMMMM${magenta}/${white}      ${magenta}/o/`${white}  ${magenta}.${white}smMMMMMMMMMMM
+${white}MMMMMMMMMMm      ${magenta}`NMN:${white}    ${magenta}.${white}yMMMMMMMMMM
+${white}MMMMMMMMMMMh${magenta}:.${white}              dMMMMMMMMM
+${white}MMMMMMMMMMMMMy${magenta}.${white}            ${magenta}-${white}NMMMMMMMMM
+${white}MMMMMMMMMMMd:${magenta}`${white}           ${magenta}-${white}yNMMMMMMMMMM
+${white}MMMMMMMMMMh${magenta}`${white}          ${magenta}./${white}hNMMMMMMMMMMMM
+${white}MMMMMMMMMM${magenta}s${white}        ${magenta}.:${white}ymMMMMMMMMMMMMMMM
+${white}MMMMMMMMMMN${magenta}s:..-/${white}ohNMMMMMMMMMMMMMMMMMM
+${white}MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+${white}MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+${white} MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+${white}

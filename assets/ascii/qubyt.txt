@@ -1,0 +1,15 @@
+${blue}    ########################${magenta}(${black}ooo
+${blue}    ########################${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo                  ${blue}###${magenta}(${black}ooo
+${blue}###${magenta}(${black}ooo           ${blue}##${black}o    ${magenta}((((${black}ooo
+${blue}###${magenta}(${black}ooo          o${magenta}((${blue}###   ${black}oooooo
+${blue}###${magenta}(${black}ooo           oo${magenta}((${blue}###${black}o
+${blue}###${magenta}(${black}ooo             ooo${magenta}((${blue}###
+${blue}################${magenta}(${black}oo    oo${magenta}((((${black}o
+${magenta}(((((((((((((((((${black}ooo     ooooo
+${black}  oooooooooooooooooo        o

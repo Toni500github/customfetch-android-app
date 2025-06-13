@@ -1,0 +1,6 @@
+${magenta}  __ __ __  _
+${magenta}.`_//_//_/ / `.
+${magenta}          /  .`
+${magenta}         / .`
+${magenta}        /.`
+${magenta}       /`

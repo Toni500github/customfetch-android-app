@@ -1,0 +1,23 @@
+${cyan}             `.-:::-.`
+${cyan}         -+ydmNNNNNNNmdy+-
+${cyan}      .+dNmdhs+//////+shdmdo.
+${cyan}    .smmy+-`             ./sdy:
+${cyan}  `omdo.    `.-/+osssso+/-` `+dy.
+${cyan} `yms.   `:shmNmdhsoo++osyyo-``oh.
+${cyan} hm/   .odNmds/.`    ``.....:::-+s
+${cyan}/m:  `+dNmy:`   `./oyhhhhyyooo++so
+${cyan}ys  `yNmy-    .+hmmho:-.`     ```
+${cyan}s:  yNm+`   .smNd+.
+${cyan}`` /Nm:    +dNd+`
+${cyan}   yN+   `smNy.
+${cyan}   dm    oNNy`
+${cyan}   hy   -mNm.
+${cyan}   +y   oNNo
+${cyan}   `y`  sNN:
+${cyan}    `:  +NN:
+${cyan}     `  .mNo
+${cyan}         /mm`
+${cyan}          /my`
+${cyan}           .sy`
+${cyan}             .+:
+${cyan}                `

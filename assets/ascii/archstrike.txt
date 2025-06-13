@@ -1,0 +1,17 @@
+${cyan}${black}                   *   
+${black}                  **.
+${black}                 ****
+${black}                ******
+${black}                *******
+${black}              ** *******
+${black}             **** *******
+${black}            ${black}****${cyan}_____${black}***${cyan}/${black}*
+${black}           ***${cyan}/${black}*******${cyan}//${black}***
+${black}          **${cyan}/${black}********${cyan}///${black}*${cyan}/${black}**
+${black}         **${cyan}/${black}*******${cyan}////${black}***${cyan}/${black}**
+${black}        **${cyan}/${black}****${cyan}//////.,${black}****${cyan}/${black}**
+${black}       ***${cyan}/${black}*****${cyan}/////////${black}**${cyan}/${black}***
+${black}      ****${cyan}/${black}****    ${cyan}/////${black}***${cyan}/${black}****
+${black}     ******${cyan}/${black}***  ${cyan}////   ${black}**${cyan}/${black}******
+${black}    ********${cyan}/${black}* ${cyan}///      ${black}*${cyan}/${black}********
+${black}  ,******     ${cyan}// ______ /    ${black}******,

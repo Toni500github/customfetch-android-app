@@ -1,0 +1,19 @@
+${yellow}             `-/oydNNdyo:.`
+${yellow}      `.:+shmMMMMMMMMMMMMMMmhs+:.`
+${yellow}    -+hNNMMMMMMMMMMMMMMMMMMMMMMNNho-
+${yellow}.``      -/+shmNNMMMMMMNNmhs+/-      ``.
+${yellow}dNmhs+:.       `.:/oo/:.`       .:+shmNd
+${yellow}dMMMMMMMNdhs+:..        ..:+shdNMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMNds    odNMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
+${yellow}.:+ydNMMMMMMMMMMMh    yMMMMMMMMMMMNdy+:.
+${yellow}     `.:+shNMMMMMh    yMMMMMNhs+:``
+${yellow}            `-+shy    shs+:`

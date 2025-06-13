@@ -1,0 +1,20 @@
+${blue}                    /-
+${blue}                   ooo:
+${blue}                  yoooo/
+${blue}                 yooooooo
+${blue}                yooooooooo
+${blue}               yooooooooooo
+${blue}             .yooooooooooooo
+${blue}            .oooooooooooooooo
+${blue}           .oooooooarcoooooooo
+${blue}          .ooooooooo-oooooooooo
+${blue}         .ooooooooo-  oooooooooo
+${blue}        :ooooooooo.    :ooooooooo
+${blue}       :ooooooooo.      :ooooooooo
+${blue}      :oooarcooo         .oooarcooo
+${blue}     :ooooooooy           .ooooooooo
+${blue}    :ooooooooo   ${1}/ooooooooooooooooooo${blue}
+${blue}   :ooooooooo      ${1}.-ooooooooooooooooo.${blue}
+${blue}  ooooooooo-             ${1}-ooooooooooooo.${blue}
+${blue} ooooooooo-                 ${1}.-oooooooooo.${blue}
+${blue}ooooooooo.                     ${1}-ooooooooo${blue}

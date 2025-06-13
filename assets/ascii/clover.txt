@@ -1,0 +1,20 @@
+${green}               `omo``omo`
+${green}             `oNMMMNNMMMNo`
+${green}           `oNMMMMMMMMMMMMNo`
+${green}          oNMMMMMMMMMMMMMMMMNo
+${green}          `sNMMMMMMMMMMMMMMNs`
+${green}     `omo`  `sNMMMMMMMMMMNs`  `omo`
+${green}   `oNMMMNo`  `sNMMMMMMNs`  `oNMMMNo`
+${green} `oNMMMMMMMNo`  `oNMMNs`  `oNMMMMMMMNo`
+${green}oNMMMMMMMMMMMNo`  `sy`  `oNMMMMMMMMMMMNo
+${green}`sNMMMMMMMMMMMMNo.${cyan}oNNs${green}.oNMMMMMMMMMMMMNs`
+${green}`oNMMMMMMMMMMMMNs.${cyan}oNNs${green}.oNMMMMMMMMMMMMNo`
+${green}oNMMMMMMMMMMMNs`  `sy`  `oNMMMMMMMMMMMNo
+${green} `oNMMMMMMMNs`  `oNMMNo`  `oNMMMMMMMNs`
+${green}   `oNMMMNs`  `sNMMMMMMNs`  `oNMMMNs`
+${green}     `oNs`  `sNMMMMMMMMMMNs`  `oNs`
+${green}          `sNMMMMMMMMMMMMMMNs`
+${green}          +NMMMMMMMMMMMMMMMMNo
+${green}           `oNMMMMMMMMMMMMNo`
+${green}             `oNMMMNNMMMNs`
+${green}               `omo``oNs`

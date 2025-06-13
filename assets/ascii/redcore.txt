@@ -1,0 +1,16 @@
+${red}                 RRRRRRRRR
+${red}               RRRRRRRRRRRRR
+${red}        RRRRRRRRRR      RRRRR
+${red}   RRRRRRRRRRRRRRRRRRRRRRRRRRR
+${red} RRRRRRR  RRR         RRR RRRRRRRR
+${red}RRRRR    RR                 RRRRRRRRR
+${red}RRRR    RR     RRRRRRRR      RR RRRRRR
+${red}RRRR   R    RRRRRRRRRRRRRR   RR   RRRRR
+${red}RRRR   R  RRRRRRRRRRRRRRRRRR  R   RRRRR
+${red}RRRR     RRRRRRRRRRRRRRRRRRR  R   RRRR
+${red} RRR     RRRRRRRRRRRRRRRRRRRR R   RRRR
+${red}  RRR    RRRRRRRRRRRRRRRRRRRR    RRRR
+${red}    RR   RRRRRRRRRRRRRRRRRRR    RRR
+${red}     RR   RRRRRRRRRRRRRRRRR    RRR
+${red}       RR   RRRRRRRRRRRRRR   RR
+${red}         R       RRRR      RR

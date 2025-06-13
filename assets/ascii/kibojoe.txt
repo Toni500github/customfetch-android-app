@@ -1,0 +1,13 @@
+${blue}           ./+oooooo+/.
+           ${blue}-/+ooooo+/:.`
+          ${green}`${blue}yyyo${white}+++/++${blue}osss${green}.
+         ${green}+NMN${blue}yssssssssssss${green}.
+       ${green}.dMMMMN${blue}sssssssssssy${green}Ns`
+      ${green}+MMMMMMMm${blue}sssssssssssh${green}MNo`
+    ${green}`hMMMMMNNNMd${blue}sssssssssssd${green}MMN/
+   .${blue}syyyssssssy${green}NNmmmmd${blue}sssss${green}hMMMMd:
+  ${green}-NMmh${blue}yssssssssyhhhhyssyh${green}mMMMMMMMy`
+ ${green}-NMMMMMNN${blue}mdhyyyyyyyhdm${green}NMMMMMMMMMMMN+
+${green}`NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd.
+${green}ods+/:-----://+oyydmNMMMMMMMMMMMMMMMMMN-
+${green}`                     .-:+osyhhdmmNNNmdo

@@ -1,0 +1,20 @@
+${blue}          BBB
+${blue}       BBBBBBBBB
+${blue}     BBBBBBBBBBBBBBB
+${blue}   BBBBBBBBBBBBBBBBBBBB
+${blue}   BBBBBBBBBBB         BBB
+${blue}  BBBBBBBB${yellow}YYYYY
+${blue}  BBBBBBBB${yellow}YYYYYY
+${blue}  BBBBBBBB${yellow}YYYYYYY
+${blue}  BBBBBBBBB${yellow}YYYYY${1}W
+${cyan} GG${blue}BBBBBBBY${yellow}YYYY${1}WWW
+${cyan} GGG${blue}BBBBBBB${yellow}YY${1}WWWWWWWW
+${cyan} GGGGGG${blue}BBBBBB${1}WWWWWWWW
+${cyan} GGGGGGGG${blue}BBBB${1}WWWWWWWW
+${cyan}GGGGGGGGGGG${blue}BBB${1}WWWWWWW
+${cyan}GGGGGGGGGGGGG${blue}B${1}WWWWWW
+${cyan}GGGGGGGG${1}WWWWWWWWWWW
+${cyan}GG${1}WWWWWWWWWWWWWWWW
+${1} WWWWWWWWWWWWWWWW
+${1}      WWWWWWWWWW
+${1}          WWW

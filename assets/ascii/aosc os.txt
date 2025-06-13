@@ -1,0 +1,20 @@
+${blue}${1}             .:+syhhhhys+:.
+${1}         .ohNMMMMMMMMMMMMMMNho.
+${1}      `+mMMMMMMMMMMmdmNMMMMMMMMm+`
+${1}     +NMMMMMMMMMMMM/   `./smMMMMMN+
+${1}   .mMMMMMMMMMMMMMMo        -yMMMMMm.
+${1}  :NMMMMMMMMMMMMMMMs          .hMMMMN:
+${1} .NMMMMhmMMMMMMMMMMm+/-         oMMMMN.
+${1} dMMMMs  ./ymMMMMMMMMMMNy.       sMMMMd
+${1}-MMMMN`      oMMMMMMMMMMMN:      `NMMMM-
+${1}/MMMMh       NMMMMMMMMMMMMm       hMMMM/
+${1}/MMMMh       NMMMMMMMMMMMMm       hMMMM/
+${1}-MMMMN`      :MMMMMMMMMMMMy.     `NMMMM-
+${1} dMMMMs       .yNMMMMMMMMMMMNy/. sMMMMd
+${1} .NMMMMo         -/+sMMMMMMMMMMMmMMMMN.
+${1}  :NMMMMh.          .MMMMMMMMMMMMMMMN:
+${1}   .mMMMMMy-         NMMMMMMMMMMMMMm.
+${1}     +NMMMMMms/.`    mMMMMMMMMMMMN+
+${1}      `+mMMMMMMMMNmddMMMMMMMMMMm+`
+${1}         .ohNMMMMMMMMMMMMMMNho.
+${1}             .:+syhhhhys+:.

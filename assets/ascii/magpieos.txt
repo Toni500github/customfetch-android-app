@@ -1,0 +1,20 @@
+${green}        ;00000     :000Ol
+${green}     .x00kk00:    O0kk00k;
+${green}    l00:   :00.  o0k   :O0k.
+${green}  .k0k.     x${red}d$dddd${green}k'    .d00;
+${green}  k0k.      ${red}.dddddl       ${green}o00,
+${green} o00.        ${red}':cc:.        ${green}d0O
+${green}.00l                       ,00.
+${green}l00.                       d0x
+${green}k0O                     .:k0o
+${green}O0k                 ;dO0000d.
+${green}k0O               .O0O${red}xxxxk${green}00:
+${green}o00.              k0O${red}dddddd${green}occ
+${green}'00l              x0O${red}dddddo${yellow};..${green}
+${green} x00.             .x00${red}kxxd${yellow}:..${green}
+${green} .O0x               .:oxxx${magenta}Okl.${green}
+${green}  .x0d                     ${magenta},xx,${green}
+${green}    .:o.          ${magenta}.xd       ckd${green}
+${green}       ..          ${magenta}dxl     .xx;
+${magenta}                    :xxolldxd'
+${magenta}                      ;oxdl.

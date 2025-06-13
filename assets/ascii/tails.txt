@@ -1,0 +1,19 @@
+${magenta}      ``
+${magenta}  ./yhNh
+${magenta}syy/Nshh         `:o/
+${magenta}N:dsNshh  █   `ohNMMd
+${magenta}N-/+Nshh      `yMMMMd
+${magenta}N-yhMshh       yMMMMd
+${magenta}N-s:hshh  █    yMMMMd so//.
+${magenta}N-oyNsyh       yMMMMd d  Mms.
+${magenta}N:hohhhd:.     yMMMMd  syMMM+
+${magenta}Nsyh+-..+y+-   yMMMMd   :mMM+
+${magenta}+hy-      -ss/`yMMMM     `+d+
+${magenta}  :sy/.     ./yNMMMMm      ``
+${magenta}    .+ys- `:+hNMMMMMMy/`
+${magenta}      `hNmmMMMMMMMMMMMMdo.
+${magenta}       dMMMMMMMMMMMMMMMMMNh:
+${magenta}       +hMMMMMMMMMMMMMMMMMmy.
+${magenta}         -oNMMMMMMMMMMmy+.`
+${magenta}           `:yNMMMds/.`
+${magenta}              .//`

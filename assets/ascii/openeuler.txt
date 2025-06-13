@@ -1,0 +1,23 @@
+${blue}                 `.cc.`
+${blue}             ``.cccccccc..`
+${blue}          `.cccccccccccccccc.`
+${blue}      ``.cccccccccccccccccccccc.``
+${blue}   `..cccccccccccccccccccccccccccc..`
+${blue}`.ccccccccccccccc${white}/++/${blue}ccccccccccccccccc.`
+${blue}.ccccccccccccccc${white}mNMMNdo+oso+${blue}ccccccccccc.
+${blue}.cccccccccc${white}/++odms+//+mMMMMm/:+syso/${blue}cccc
+${blue}.ccccccccc${white}yNNMMMs:::/::+o+/:${blue}c${white}dMMMMMm${blue}cccc
+${blue}.ccccccc${white}:+NmdyyhNNmNNNd:${blue}ccccc${blue}${white}:oyyyo:${blue}cccc
+${blue}.ccc${white}:ohdmMs:${blue}cccc${white}+mNMNmy${blue}ccccccccccccccccc
+${blue}.cc${white}/NMMMMMo////:${blue}c${white}:///:${blue}cccccccccccccccccc
+${blue}.cc${white}:syysyNMNNNMNy${blue}ccccccccccccccccccccccc
+${blue}.cccccccc${white}+MMMMMNy${blue}c${white}:/+++/${blue}cccccccccccccccc
+${blue}.ccccccccc${white}ohhhs/${blue}c${white}omMMMMNh${blue}ccccccccccccccc
+${blue}.ccccccccccccccc${white}:MMMMMMMM/${blue}cccccccccccccc
+${blue}.cccccccccccccccc${white}sNNNNNd+${blue}cccccccccccccc.
+${blue}`..cccccccccccccccc${white}/+/:${blue}cccccccccccccc..`
+${blue}   ``.cccccccccccccccccccccccccccc.``
+${blue}       `.cccccccccccccccccccccc.`
+${blue}          ``.cccccccccccccc.``
+${blue}              `.cccccccc.`
+${blue}                 `....`

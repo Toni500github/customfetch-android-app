@@ -1,0 +1,15 @@
+${!#5a91fa}${!#545af4}${!#630ff4}             !M$EEEEEEEEEEEP
+${!#630ff4}            .MMMMM000000Nr.
+            ${!#630ff4}\&MMMMMM${!#5c93fc}MMMMMMMMMMMMM9
+           ${!#630ff4}~MMM${!#64c3fc}MMMM${!#5c93fc}MMMMMMMMMMMMC
+      ${!#64c3fc}"    ${!#630ff4}M${!#64c3fc}MMMMMMM${!#5c93fc}MMMMMMMMMMs
+    ${!#64c3fc}iM${!#5c93fc}MMM\&\&${!#64c3fc}MMMMMMMM${!#5c93fc}MMMMMMMM\\
+   ${!#64c3fc}BMMM${!#5c93fc}MMMMM${!#64c3fc}MMMMMMM${!#5c93fc}MMMMMM${!#545af4}"
+  ${!#64c3fc}9MMMMM${!#5c93fc}MMMMMMM${!#64c3fc}MMMM${!#5c93fc}MMMM${!#545af4}MMMf-
+        ${!#5c93fc}sMMMMMMMM${!#64c3fc}MM${!#5c93fc}M${!#545af4}MMMMMMMMM3_
+         ${!#5c93fc}+ffffffff${!#64c3fc}P${!#545af4}MMMMMMMMMMMM0
+${!#5a91fa}                    CMMMMMMMMMMM
+${!#5a91fa}                      }MMMMMMMMM
+${!#5a91fa}                        ~MMMMMMM
+${!#5a91fa}                          "RMMMM
+${!#5a91fa}                            .PMB

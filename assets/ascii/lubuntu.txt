@@ -1,0 +1,20 @@
+${blue}           `.:/ossyyyysso/:.
+${blue}        `.:yyyyyyyyyyyyyyyyyy:.`
+${blue}      .:yyyyyyyyyyyyyyyyyyyyyyyy:.
+${blue}    .:yyyyyyyyyyyyyyyyyyyyyyyyyyyy:.
+${blue}   -yyyyyyyyyyyyyy${white}+hNMMMNh+${blue}yyyyyyyyy-
+${blue}  :yy${white}mNy+${blue}yyyyyyyy${white}+Nmso++smMdhyysoo+${blue}yy:
+${blue} -yy${white}+MMMmmy${blue}yyyyyy${white}hh${blue}yyyyyyyyyyyyyyyyyyy-
+${blue}.yyyy${white}NMN${blue}yy${white}shhs${blue}yyy${white}+o${blue}yyyyyyyyyyyyyyyyyyyy.
+${blue}:yyyy${white}oNM+${blue}yyyy${white}+sso${blue}yyyyyyy${white}ss${blue}yyyyyyyyyyyyy:
+${blue}:yyyyy${white}+dNs${blue}yyyyyyy${white}++${blue}yyyyy${white}oN+${blue}yyyyyyyyyyyy:
+${blue}:yyyyy${white}oMMmhysso${blue}yyyyyyyyyy${white}mN+${blue}yyyyyyyyyyy:
+${blue}:yyyyyy${white}hMm${blue}yyyyy${white}+++${blue}yyyyyyy${white}+MN${blue}yyyyyyyyyyy:
+${blue}.yyyyyyy${white}ohmy+${blue}yyyyyyyyyyyyy${white}NMh${blue}yyyyyyyyyy.
+${blue} -yyyyyyyyyy${white}++${blue}yyyyyyyyyyyy${white}MMh${blue}yyyyyyyyy-
+${blue}  :yyyyyyyyyyyyyyyyyyyyy${white}+mMN+${blue}yyyyyyyy:
+${blue}   -yyyyyyyyyyyyyyyyy${white}+sdMMd+${blue}yyyyyyyy-
+${blue}    .:yyyyyyyyy${white}hmdmmNMNdy+${blue}yyyyyyyy:.
+${blue}      .:yyyyyyy${white}my${blue}yyyyyyyyyyyyyyy:.
+${blue}        `.:yyyy${white}s${blue}yyyyyyyyyyyyy:.`
+${blue}           `.:/oosyyyysso/:.`

@@ -1,0 +1,15 @@
+${black}   :::::::          :::::::
+${black}   mMMMMMMm        dMMMMMMm
+${black}   /MMMMMMMo      +MMMMMMM/
+${black}    yMMMMMMN      mMMMMMMy
+${black}     NMMMMMMs    oMMMMMMm
+${black}     +MMMMMMN:   NMMMMMM+
+${black}      hMMMMMMy  sMMMMMMy
+${black}      :NMMMMMM::NMMMMMN:
+${black}       oMMMMMMyyMMMMMM+
+${black}        dMMMMMMMMMMMMh
+${black}        /MMMMMMMMMMMN:
+${black}         sMMMMMMMMMMo
+${black}          mMMMMMMMMd
+${black}          +MMMMMMMN:
+${black}            ::::::

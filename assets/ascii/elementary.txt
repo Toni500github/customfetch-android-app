@@ -1,0 +1,17 @@
+${blue}${1}         eeeeeeeeeeeeeeeee
+${1}      eeeeeeeeeeeeeeeeeeeeeee
+${1}    eeeee  eeeeeeeeeeee   eeeee
+${1}  eeee   eeeee       eee     eeee
+${1} eeee   eeee          eee     eeee
+${1}eee    eee            eee       eee
+${1}eee   eee            eee        eee
+${1}ee    eee           eeee       eeee
+${1}ee    eee         eeeee      eeeeee
+${1}ee    eee       eeeee      eeeee ee
+${1}eee   eeee   eeeeee      eeeee  eee
+${1}eee    eeeeeeeeee     eeeeee    eee
+${1} eeeeeeeeeeeeeeeeeeeeeeee    eeeee
+${1}  eeeeeeee eeeeeeeeeeee      eeee
+${1}    eeeee                 eeeee
+${1}      eeeeeee         eeeeeee
+${1}         eeeeeeeeeeeeeeeee

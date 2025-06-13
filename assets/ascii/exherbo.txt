@@ -1,0 +1,22 @@
+${blue}${white} ,
+${white}OXo.
+${white}NXdX0:    .cok0KXNNXXK0ko:.
+${white}KX  '0XdKMMK;.xMMMk, .0MMMMMXx;  ...
+${white}'NO..xWkMMx   kMMM    cMMMMMX,NMWOxOXd.
+${white}  cNMk  NK    .oXM.   OMMMMO. 0MMNo  kW.
+${white}  lMc   o:       .,   .oKNk;   ;NMMWlxW'
+${white} ;Mc    ..   .,,'    .0M${blue}g;${white}WMN'dWMMMMMMO
+${white} XX        ,WMMMMW.  cM${blue}cfli${white}WMKlo.   .kMk
+${white}.Mo        .WM${blue}GD${white}MW.   XM${blue}WO0${white}MMk        oMl
+${white},M:         ,XMMWx::,''oOK0x;          NM.
+${white}'Ml      ,kNKOxxxxxkkO0XXKOd:.         oMk
+${white} NK    .0Nxc${red}:::::::::::::::${white}fkKNk,      .MW
+${white} ,Mo  .NXc${red}::${white}qXWXb${red}::::::::::${white}oo${red}::${white}lNK.    .MW
+${white}  ;Wo oMd${red}:::${white}oNMNP${red}::::::::${white}oWMMMx${red}:${white}c0M;   lMO
+${white}   'NO;W0c${red}:::::::::::::::${white}dMMMMO${red}::${white}lMk  .WM'
+${white}     xWONXdc${red}::::::::::::::${white}oOOo${red}::${white}lXN. ,WMd
+${white}      'KWWNXXK0Okxxo,${red}:::::::${white},lkKNo  xMMO
+${white}        :XMNxl,';:lodxkOO000Oxc. .oWMMo
+${white}          'dXMMXkl;,.        .,o0MMNo'
+${white}             ':d0XWMMMMWNNNNMMMNOl'
+${white}                   ':okKXWNKkl'

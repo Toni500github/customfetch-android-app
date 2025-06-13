@@ -1,0 +1,7 @@
+${yellow}      _____
+${yellow}    \\-     -/
+${yellow} \\_/         \\
+${yellow} |        ${1}O O${yellow} |
+${yellow} |_  \<   )  3 )
+${yellow} / \\         /
+${yellow}    /-_____-\\

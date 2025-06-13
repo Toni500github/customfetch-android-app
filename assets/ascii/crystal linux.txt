@@ -1,0 +1,20 @@
+${magenta}                        mysssym
+${magenta}                      mysssym
+${magenta}                    mysssym
+${magenta}                  mysssym
+${magenta}                mysssyd
+${magenta}              mysssyd    N
+${magenta}            mysssyd    mysym
+${magenta}          mysssyd      dysssym
+${magenta}        mysssyd          dysssym
+${magenta}      mysssyd              dysssym
+${magenta}      mysssyd              dysssym
+${magenta}        mysssyd          dysssym
+${magenta}          mysssyd      dysssym
+${magenta}            mysym    dysssym
+${magenta}              N    dysssym
+${magenta}                 dysssym
+${magenta}               dysssym
+${magenta}             dysssym
+${magenta}           dysssym
+${magenta}         dysssym

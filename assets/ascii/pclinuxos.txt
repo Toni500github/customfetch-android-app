@@ -1,0 +1,19 @@
+${blue}            mhhhyyyyhhhdN
+${blue}        dyssyhhhhhhhhhhhssyhN
+${blue}     Nysyhhyo/:-.....-/oyhhhssd
+${blue}   Nsshhy+.              `/shhysm
+${blue}  dohhy/                    -shhsy
+${blue} dohhs`                       /hhys
+${blue}N+hho   ${white}+ssssss+-   .+syhys+   ${blue}/hhsy
+${blue}ohhh`   ${white}ymmo++hmm+`smmy/::+y`   ${blue}shh+
+${blue}+hho    ${white}ymm-  /mmy+mms          ${blue}:hhod
+${blue}/hh+    ${white}ymmhhdmmh.smm/          ${blue}.hhsh
+${blue}+hhs    ${white}ymm+::-`  /mmy`    `    ${blue}/hh+m
+${blue}yyhh-   ${white}ymm-       /dmdyosyd`  ${blue}`yhh+
+${blue} ohhy`  ${white}://`         -/+++/-   ${blue}ohhom
+${blue} N+hhy-                      `shhoh
+${blue}   sshho.                  `+hhyom
+${blue}    dsyhhs/.            `:ohhhoy
+${blue}      dysyhhhso///://+syhhhssh
+${blue}         dhyssyhhhhhhyssyyhN
+${blue}              mddhdhdmN

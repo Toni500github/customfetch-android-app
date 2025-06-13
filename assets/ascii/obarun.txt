@@ -1,0 +1,19 @@
+${cyan}                    ,;::::;
+${cyan}                ;cooolc;,
+${cyan}             ,coool;
+${cyan}           ,loool,
+${cyan}          loooo;
+${cyan}        :ooool
+${cyan}       cooooc            ,:ccc;
+${cyan}      looooc           :oooooool
+${cyan}     cooooo          ;oooooooooo,
+${cyan}    :ooooo;         :ooooooooooo
+${cyan}    oooooo          oooooooooooc
+${cyan}   :oooooo         :ooooooooool
+${cyan}   loooooo         ;oooooooool
+${cyan}   looooooc        .coooooooc
+${cyan}   cooooooo:           ,;co;
+${cyan}   ,ooooooool;       ,:loc
+${cyan}    cooooooooooooloooooc
+${cyan}     ;ooooooooooooool;
+${cyan}       ;looooooolc;

@@ -1,0 +1,15 @@
+${magenta}                     ...`
+${magenta}                     `-///:-`
+${magenta}                       .+ssys/
+${magenta}                        +yyyyyo    
+${magenta}                        -yyyyyy:
+${magenta}           `.:/+ooo+/:` -yyyyyy+
+${magenta}         `:oyyyyyys+:-.`syyyyyy:
+${magenta}        .syyyyyyo-`   .oyyyyyyo
+${magenta}       `syyyyyy   `-+yyyyyyy/`
+${magenta}       /yyyyyy+ -/osyyyyyyo/.
+${magenta}       +yyyyyy-  `.-:::-.`
+${magenta}       .yyyyyy-
+${magenta}        :yyyyyo
+${magenta}         .+ooo+
+${magenta}           `.::/:.

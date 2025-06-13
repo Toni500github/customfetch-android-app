@@ -1,0 +1,20 @@
+${yellow}          ,xXc
+${yellow}      .l0MMMMMO
+${yellow}   .kNMMMMMWMMMN,
+${yellow}   KMMMMMMKMMMMMMo
+${yellow}  'MMMMMMNKMMMMMM:
+${yellow}  kMMMMMMOMMMMMMO
+${yellow} .MMMMMMX0MMMMMW.
+${yellow} oMMMMMMxWMMMMM:
+${yellow} WMMMMMNkMMMMMO
+${yellow}:MMMMMMOXMMMMW
+${yellow}.0MMMMMxMMMMM;
+${yellow}:;cKMMWxMMMMO
+${yellow}'MMWMMXOMMMMl
+${yellow} kMMMMKOMMMMMX:
+${yellow} .WMMMMKOWMMM0c
+${yellow}  lMMMMMWO0MNd:'
+${yellow}   oollXMKXoxl;.
+${yellow}     ':. .: .'
+${yellow}              ..
+${yellow}                .

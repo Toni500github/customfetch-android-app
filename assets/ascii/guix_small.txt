@@ -1,0 +1,7 @@
+${yellow}|.__          __.|
+${yellow}|__ \\        / __|
+${yellow}   \\ \\      / /
+${yellow}    \\ \\    / /
+${yellow}     \\ \\  / /
+${yellow}      \\ \\/ /
+${yellow}       \\__/

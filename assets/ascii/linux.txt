@@ -1,0 +1,12 @@
+${black}        #####
+${black}       #######
+${black}       ##${1}O${black}#${1}O${black}##
+${black}       #${yellow}#####${black}#
+${black}     ##${1}##${yellow}###${1}##${black}##
+${black}    #${1}##########${black}##
+${black}   #${1}############${black}##
+${black}   #${1}############${black}###
+${yellow}  ##${black}#${1}###########${black}##${yellow}#
+${yellow}######${black}#${1}#######${black}#${yellow}######
+${yellow}#######${black}#${1}#####${black}#${yellow}#######
+${yellow}  #####${black}#######${yellow}#####

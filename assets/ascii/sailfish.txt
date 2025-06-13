@@ -1,0 +1,13 @@
+${blue}                 _a@b
+${blue}              _#b (b
+${blue}            _@@   @_         _,
+${blue}          _#^@ _#*^^*gg,aa@^^
+${blue}          #- @@^  _a@^^
+${blue}          @_  *g#b
+${blue}          ^@_   ^@_
+${blue}            ^@_   @
+${blue}             @(b (b
+${blue}            #b(b#^
+${blue}          _@_#@^
+${blue}       _a@a*^
+${blue}   ,a@*^

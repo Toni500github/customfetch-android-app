@@ -1,0 +1,18 @@
+${1}|           ${yellow},,mmKKKKKKKKWm,,
+ ${1}'      ${yellow},aKKP${1}LL**********|L*${yellow}TKp,
+   ${1}t  ${yellow}aKP${1}L**```          ```**L${yellow}*Kp
+${yellow}    IX${1}EL${green}L,wwww,              ${1}``*||${yellow}Kp
+${yellow}  ,#P${1}L|${green}KKKpPP@IPPTKmw,          ${1}`*||${yellow}K
+${yellow} ,K${1}LL*${green}{KKKKKKPPb$KPhpKKPKp        ${1}`||${yellow}K
+${yellow} #${1}PL  ${green}!KKKKKKPhKPPP$KKEhKKKKp      ${1}`||${yellow}K
+${yellow}!H${1}L*   ${green}1KKKKKKKphKbPKKKKKK$KKp      ${1}`|I${yellow}W
+${yellow}$${1}bL     ${green}KKKKKKKKBQKhKbKKKKKKKK       ${1}|I${yellow}N
+${yellow}$${1}bL     ${green}!KKKKKKKKKKNKKKKKKKPP`       ${1}|I${yellow}b
+${yellow}TH${1}L*     ${green}TKKKKKK##KKKN@KKKK^         ${1}|I${yellow}M
+${yellow} K@${1}L      ${green}*KKKKKKKKKKKEKE5          ${1}||${yellow}K
+${yellow} `NL${1}L      ${green}`KKKKKKKKKK"```|L       ${1}||${yellow}#P
+${yellow}  `K@${1}LL       ${green}`"**"`        ${1}'.   :||${yellow}#P
+${yellow}    Yp${1}LL                      ${1}' |L${yellow}$M`
+${yellow}     `Tp${1}pLL,                ,|||${yellow}p'L
+${yellow}        "Kpp${1}LL++,.,    ,,|||$${yellow}#K*   ${1}'.
+${yellow}           `"MKWpppppppp#KM"`        ${1}`h,

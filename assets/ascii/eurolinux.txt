@@ -1,0 +1,18 @@
+${blue}                __
+${blue}         -wwwWWWWWWWWWwww-
+${blue}        -WWWWWWWWWWWWWWWWWWw-
+${blue}          \\WWWWWWWWWWWWWWWWWWW-
+${blue}  _Ww      `WWWWWWWWWWWWWWWWWWWw
+${blue} -W${white}E${blue}Www                -WWWWWWWWW-
+${blue}_WW${white}U${blue}WWWW-                _WWWWWWWW
+${blue}_WW${white}R${blue}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW-
+${blue}wWW${white}O${blue}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+${blue}WWW${white}L${blue}WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+${blue}WWW${white}I${blue}WWWWWWWWWWWWWWWWWWWWWWWWWWWWww-
+${blue}wWW${white}N${blue}WWWWw
+${blue} WW${white}U${blue}WWWWWWw
+${blue} wW${white}X${blue}WWWWWWWWww
+${blue}   wWWWWWWWWWWWWWWWw
+${blue}    wWWWWWWWWWWWWWWWw
+${blue}       WWWWWWWWWWWWWw
+${blue}           wWWWWWWWw

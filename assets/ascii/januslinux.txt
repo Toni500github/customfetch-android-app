@@ -1,0 +1,24 @@
+${blue}               'l:
+${blue}        loooooo
+${blue}          loooo coooool
+${blue} looooooooooooooooooool
+${blue}  looooooooooooooooo
+${blue}         lool   cooo
+${blue}        coooooooloooooooo
+${blue}     clooooo  ;lood  cloooo
+${blue}  :loooocooo cloo      loooo
+${blue} loooo  :ooooool       loooo
+${blue}looo    cooooo        cooooo
+${blue}looooooooooooo      ;loooooo ${magenta}looooooc
+${blue}looooooooo loo   cloooooool    ${magenta}looooc
+${blue} cooo       cooooooooooo       ${magenta}looolooooool
+${blue}            cooo:     ${magenta}coooooooooooooooooool
+${magenta}                       loooooooooooolc:   loooc;
+${magenta}                             cooo:    loooooooooooc
+${magenta}                            ;oool         looooooo:
+${magenta}                           coool          olc,
+${magenta}                          looooc   ,,
+${magenta}                        coooooc    loc
+${magenta}                       :oooool,    coool:, looool:,
+${magenta}                       looool:      ooooooooooooooo:
+${magenta}                       cooolc        .ooooooooooool

@@ -1,0 +1,21 @@
+${!#687bba}                  :::::::
+${!#687bba}            :::::::::::::::::::
+${!#687bba}         :::::::::::::::::::::::::
+${!#687bba}       ::::::::${white}cllcccccllllllll${!#687bba}::::::
+${!#687bba}    :::::::::${white}lc               dc${!#687bba}:::::::
+${!#687bba}   ::::::::${white}cl   clllccllll    oc${!#687bba}:::::::::
+${!#687bba}  :::::::::${white}o   lc${!#687bba}::::::::${white}co   oc${!#687bba}::::::::::
+${!#687bba} ::::::::::${white}o    cccclc${!#687bba}:::::${white}clcc${!#687bba}::::::::::::
+${!#687bba} :::::::::::${white}lc        cclccclc${!#687bba}:::::::::::::
+${!#687bba}::::::::::::::${white}lcclcc          lc${!#687bba}::::::::::::
+${!#687bba}::::::::::${white}cclcc${!#687bba}:::::${white}lccclc     oc${!#687bba}:::::::::::
+${!#687bba}::::::::::${white}o    l${!#687bba}::::::::::${white}l    lc${!#687bba}:::::::::::
+${!#687bba} :::::${white}cll${!#687bba}:${white}o     clcllcccll     o${!#687bba}:::::::::::
+${!#687bba} :::::${white}occ${!#687bba}:${white}o                  clc${!#687bba}:::::::::::
+${!#687bba}  ::::${white}ocl${!#687bba}:${white}ccslclccclclccclclc${!#687bba}:::::::::::::
+${!#687bba}   :::${white}oclcccccccccccccllllllllllllll${!#687bba}:::::
+${!#687bba}    ::${white}lcc1lcccccccccccccccccccccccco${!#687bba}::::
+${!#687bba}      ::::::::::::::::::::::::::::::::
+${!#687bba}        ::::::::::::::::::::::::::::
+${!#687bba}           ::::::::::::::::::::::
+${!#687bba}                ::::::::::::

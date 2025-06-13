@@ -1,0 +1,15 @@
+${blue}                              `:shd/
+${blue}                          `:yNMMMMs
+${blue}                       `-smMMMMMMN.
+${blue}                     .+dNMMMMMMMMs
+${blue}                   .smNNMMMMMMMMm`
+${blue}                 .sNNNNNNNMMMMMM/
+${blue}               `omNNNNNNNMMMMMMm
+${blue}              /dNNNNNNNNMMMMMMM+
+${blue}            .yNNNNNNNNNMMMMMMMN`
+${blue}           +mNNNNNNNNNMMMMMMMMh
+${blue}         .hNNNNNNNNNNMMMMMMMMMs
+${blue}        +mMNNNNNNNNMMMMMMMMMMMs
+${blue}      .hNMMNNNNMMMMMMMMMMMMMMMd
+${blue}    .oNNNNNNNNNNMMMMMMMMMMMMMMMo
+${blue} `:+syyssoo++++ooooossssssssssso:

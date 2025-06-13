@@ -1,0 +1,21 @@
+${black}                   00
+${black}                   11
+${black}                  ====
+${red}                  .${black}//${red}
+${red}                 `o${black}//${red}:
+${red}                `+o${black}//${red}o:
+${red}               `+oo${black}//${red}oo:
+${red}               -+oo${black}//${red}oo+:
+${red}             `/:-:+${black}//${red}ooo+:
+${red}            `/+++++${black}//${red}+++++:
+${red}           `/++++++${black}//${red}++++++:
+${red}          `/+++oooo${black}//${red}ooooooo/`
+${red}         ./ooosssso${black}//${red}osssssso+`
+${red}        .oossssso-`${black}//${red}`/ossssss+`
+${red}       -osssssso.  ${black}//${red}  :ssssssso.
+${red}      :osssssss/   ${black}//${red}   osssso+++.
+${red}     /ossssssss/   ${black}//${red}   +ssssooo/-
+${red}   `/ossssso+/:-   ${black}//${red}   -:/+osssso+-
+${red}  `+sso+:-`        ${black}//${red}       `.-/+oso:
+${red} `++:.             ${black}//${red}            `-/+/
+${red} .`                ${black}/${red}                `/

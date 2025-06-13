@@ -1,0 +1,17 @@
+${green}syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy+${cyan}.+.
+${green}`oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy+${cyan}:++.
+${yellow}/o${green}+oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/${cyan}oo++.
+${yellow}/y+${green}syyyyyyyyyyyyyyyyyyyyyyyyyyyyy${cyan}+ooo++.
+${yellow}/hy+${green}oyyyhhhhhhhhhhhhhhyyyyyyyyy${cyan}+oo+++++.
+${yellow}/hhh+${green}shhhhhdddddhhhhhhhyyyyyyy${cyan}+oo++++++.
+${yellow}/hhdd+${green}oddddddddddddhhhhhyyyys${cyan}+oo+++++++.
+${yellow}/hhddd+${green}odmmmdddddddhhhhyyyy${cyan}+ooo++++++++.
+${yellow}/hhdddmo${green}odmmmdddddhhhhhyyy${cyan}+oooo++++++++.
+${yellow}/hdddmmms${green}/dmdddddhhhhyyys${cyan}+oooo+++++++++.
+${yellow}/hddddmmmy${green}/hdddhhhhyyyyo${cyan}+oooo++++++++++:
+${yellow}/hhdddmmmmy${green}:yhhhhyyyyy+${cyan}+oooo+++++++++++:
+${yellow}/hhddddddddy${green}-syyyyyys+${cyan}ooooo++++++++++++:
+${yellow}/hhhddddddddy${green}-+yyyy+${cyan}/ooooo+++++++++++++:
+${yellow}/hhhhhdddddhhy${green}./yo:${cyan}+oooooo+++++++++++++/
+${yellow}/hhhhhhhhhhhhhy${green}:-.${cyan}+sooooo+++++++++++///:
+${yellow}:sssssssssssso++${green}${cyan}`:/:--------.````````

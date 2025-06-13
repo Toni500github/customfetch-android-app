@@ -1,0 +1,18 @@
+${green}               .-/-.
+${green}            ////////.
+${green}          ////////${white}y+${green}//.
+${green}        ////////${white}mMN${green}/////.
+${green}      ////////${white}mMN+${green}////////.
+${green}    ////////////////////////.
+${green}  /////////+${white}shhddhyo${green}+////////.
+${green} ////////${white}ymMNmdhhdmNNdo${green}///////.
+${green}///////+${white}mMms${green}////////${white}hNMh${green}///////.
+${green}///////${white}NMm+${green}//////////${white}sMMh${green}///////
+${green}//////${white}oMMNmmmmmmmmmmmmMMm${green}///////
+${green}//////${white}+MMmssssssssssssss+${green}///////
+${green}`//////${white}yMMy${green}////////////////////
+${green} `//////${white}smMNhso++oydNm${green}////////
+${green}  `///////${white}ohmNMMMNNdy+${green}///////
+${green}    `//////////${white}++${green}//////////
+${green}       `////////////////.
+${green}           -////////-

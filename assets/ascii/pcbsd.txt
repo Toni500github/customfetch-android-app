@@ -1,0 +1,27 @@
+${red}                       ..
+${red}                        s.
+${red}                        +y
+${red}                        yN
+${red}                       -MN  `.
+${red}                      :NMs `m
+${red}                    .yMMm` `No
+${red}            `-/+++sdMMMNs+-`+Ms
+${red}        `:oo+-` .yMMMMy` `-+oNMh
+${red}      -oo-     +NMMMM/       oMMh-
+${red}    .s+` `    oMMMMM/     -  oMMMhy.
+${red}   +s`- ::   :MMMMMd     -o `mMMMy`s+
+${red}  y+  h .Ny+oNMMMMMN/    sh+NMMMMo  +y
+${red} s+ .ds  -NMMMMMMMMMMNdhdNMMMMMMh`   +s
+${red}-h .NM`   `hMMMMMMMMMMMMMMNMMNy:      h-
+${red}y- hMN`     hMMmMMMMMMMMMNsdMNs.      -y
+${red}m` mMMy`    oMMNoNMMMMMMo`  sMMMo     `m
+${red}m` :NMMMdyydMMMMo+MdMMMs     sMMMd`   `m
+${red}h-  `+ymMMMMMMMM--M+hMMN/    +MMMMy   -h
+${red}:y     `.sMMMMM/ oMM+.yMMNddNMMMMMm   y:
+${red} y:   `s  dMMN- .MMMM/ :MMMMMMMMMMh  :y
+${red} `h:  `mdmMMM/  yMMMMs  sMMMMMMMMN- :h`
+${red}   so  -NMMMN   /mmd+  `dMMMMMMMm- os
+${red}    :y: `yMMM`       `+NMMMMMMNo`:y:
+${red}      /s+`.omy      /NMMMMMNh/.+s:
+${red}        .+oo:-.     /mdhs+::oo+.
+${red}            -/o+++++++++++/-

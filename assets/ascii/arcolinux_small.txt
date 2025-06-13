@@ -1,0 +1,11 @@
+${blue}          A
+${blue}         ooo
+${blue}        ooooo
+${blue}       ooooooo
+${blue}      ooooooooo
+${blue}     ooooo ooooo
+${blue}    ooooo   ooooo
+${blue}   ooooo     ooooo
+${blue}  ooooo  ${1}\<oooooooo>
+${blue} ooooo      ${1}\<oooooo>
+${blue}ooooo          ${1}\<oooo>

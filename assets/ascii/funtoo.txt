@@ -1,0 +1,10 @@
+${magenta}   .dKXXd                         .
+${magenta}  :XXl;:.                      .OXo
+${magenta}.'OXO''  .''''''''''''''''''''':XNd..'oco.lco,
+${magenta}xXXXXXX, cXXXNNNXXXXNNXXXXXXXXNNNNKOOK; d0O .k
+${magenta}  kXX  xXo  KNNN0  KNN.       'xXNo   :c; 'cc.
+${magenta}  kXX  xNo  KNNN0  KNN. :xxxx. 'NNo
+${magenta}  kXX  xNo  loooc  KNN. oNNNN. 'NNo
+${magenta}  kXX  xN0:.       KNN' oNNNX' ,XNk
+${magenta}  kXX  xNNXNNNNNNNNXNNNNNNNNXNNOxXNX0Xl
+${magenta}  ...  ......................... .;cc;.

@@ -1,0 +1,20 @@
+${blue}                .....
+${blue}          .';:cccccccc:;'.
+${blue}        ':ccccclc${red}lllllllll${blue}cc:.
+${blue}     .;cccccccc${red}lllllllllllllll${blue}c,
+${blue}    ;clllccccc${red}llllllllllllllllll${blue}c,
+${blue}  .cllclccccc${red}lllll${1}lll${red}llllllllllll${blue}c:
+${blue}  ccclclcccc${red}cllll${1}kWMMNKk${red}llllllllll${blue}c:
+${blue} :ccclclcccc${red}llll${1}oWMMMMMMWO${red}lllllllll${blue}c,
+${blue}.ccllllllccc${red}clll${1}OMMMMMMMMM0${red}lllllllll${blue}c
+${blue}.lllllclcccc${red}llll${1}KMMMMMMMMMMo${red}llllllll${blue}c.
+${blue}.lllllllcccc${red}clll${1}KMMMMMMMMN0${red}lllllllll${blue}c.
+${blue}.cclllllcccc${red}lllld${1}xkkxxdo${red}llllllllllc${blue}lc
+${blue} :cccllllllcccc${red}lllccllllcclccc${blue}cccccc;
+${blue} .ccclllllllcccccccc${red}lll${blue}ccccclccccccc
+${blue}  .cllllllllllclcccclccclccllllcllc
+${blue}    :cllllllllccclcllllllllllllcc;
+${blue}     .cccccccccccccclcccccccccc:.
+${blue}       .;cccclccccccllllllccc,.
+${blue}          .';ccccclllccc:;..
+${blue}                .....

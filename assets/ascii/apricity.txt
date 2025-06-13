@@ -1,0 +1,18 @@
+${cyan}${1}                                    ./o-
+${1}          ``...``              `:. -/:
+${1}     `-+ymNMMMMMNmho-`      :sdNNm/
+${1}   `+dMMMMMMMMMMMMMMMmo` sh:.:::-
+${1}  /mMMMMMMMMMMMMMMMMMMMm/`sNd/
+${1} oMMMMMMMMMMMMMMMMMMMMMMMs -`
+${1}:MMMMMMMMMMMMMMMMMMMMMMMMM/
+${1}NMMMMMMMMMMMMMMMMMMMMMMMMMd
+${1}MMMMMMMmdmMMMMMMMMMMMMMMMMd
+${1}MMMMMMy` .mMMMMMMMMMMMmho:`
+${1}MMMMMMNo/sMMMMMMMNdy+-.`-/
+${1}MMMMMMMMMMMMNdy+:.`.:ohmm:
+${1}MMMMMMMmhs+-.`.:+ymNMMMy.
+${1}MMMMMM/`.-/ohmNMMMMMMy-
+${1}MMMMMMNmNNMMMMMMMMmo.
+${1}MMMMMMMMMMMMMMMms:`
+${1}MMMMMMMMMMNds/.
+${1}dhhyys+/-`

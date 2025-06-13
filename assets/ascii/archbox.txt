@@ -1,0 +1,19 @@
+${green}              ...:+oh/:::..
+${green}         ..-/oshhhhhh`   `::::-.
+${green}     .:/ohhhhhhhhhhhh`        `-::::.
+${green} .+shhhhhhhhhhhhhhhhh`             `.::-.
+${green} /`-:+shhhhhhhhhhhhhh`            .-/+shh
+${green} /      .:/ohhhhhhhhh`       .:/ohhhhhhhh
+${green} /           `-:+shhh`  ..:+shhhhhhhhhhhh
+${green} /                 .:ohhhhhhhhhhhhhhhhhhh
+${green} /                  `hhhhhhhhhhhhhhhhhhhh
+${green} /                  `hhhhhhhhhhhhhhhhhhhh
+${green} /                  `hhhhhhhhhhhhhhhhhhhh
+${green} /                  `hhhhhhhhhhhhhhhhhhhh
+${green} /      .+o+        `hhhhhhhhhhhhhhhhhhhh
+${green} /     -hhhhh       `hhhhhhhhhhhhhhhhhhhh
+${green} /     ohhhhho      `hhhhhhhhhhhhhhhhhhhh
+${green} /:::+`hhhhoos`     `hhhhhhhhhhhhhhhhhs+`
+${green}    `--/:`   /:     `hhhhhhhhhhhho/-
+${green}             -/:.   `hhhhhhs+:-`
+${green}                ::::/ho/-`

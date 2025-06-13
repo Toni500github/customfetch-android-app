@@ -1,0 +1,17 @@
+${white}                     `
+${white}            .       .       `
+${white}       ``    -      .      .
+${white}        `.`   -` `. -  `` .`
+${white}          ..`-`-` + -  / .`     ```
+${white}          .--.+--`+:- :/.` .-``.`
+${white}            -+/so::h:.d-`./:`.`
+${white}              :hNhyMomy:os-...-.  ````
+${white}               .dhsshNmNhoo+:-``.```
+${white}                ${blue}`ohy:-${white}NMds+::-.``
+${white}            ````${blue}.hNN+`${white}mMNho/:-....````
+${white}       `````     `../dmNhoo+/:..``
+${white}    ````            .dh++o/:....`
+${white}.+s/`                `/s-.-.:.`` ````
+${white}::`                    `::`..`
+${white}                          .` `..
+${white}                                ``

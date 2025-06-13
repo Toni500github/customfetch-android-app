@@ -1,0 +1,9 @@
+${blue}     _________
+${blue}    /        /\\
+${blue}   /  LE    /  \\
+${blue}  /    DE  /    \\
+${blue} /________/  LE  \\
+${blue} \\        \\   DE /
+${blue}  \\    LE  \\    /
+${blue}   \\  DE    \\  /
+${blue}    \\________\\/

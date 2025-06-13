@@ -1,0 +1,17 @@
+${blue}        `osssssssssssssssssssso`
+${blue}       .osssssssssssssssssssssso.
+${blue}      .+oooooooooooooooooooooooo+.
+${blue}
+${blue}
+${blue}  `::::::::::::::::::::::.         .:`
+${blue} `+ssssssssssssssssss+:.`     `.:+ssso`
+${blue}.ossssssssssssssso/.       `-+ossssssso.
+${blue}ssssssssssssso/-`      `-/osssssssssssss
+${blue}.ossssssso/-`      .-/ossssssssssssssso.
+${blue} `+sss+:.      `.:+ssssssssssssssssss+`
+${blue}  `:.         .::::::::::::::::::::::`
+${blue}
+${blue}
+${blue}      .+oooooooooooooooooooooooo+.
+${blue}       -osssssssssssssssssssssso-
+${blue}        `osssssssssssssssssssso`
