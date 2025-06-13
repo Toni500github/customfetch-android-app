@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/github/actions/workflow/status/Toni500github/customfetch/makefile.yml" />
     <img src="https://img.shields.io/badge/Standard-C%2B%2B20-success" />
 </p>
-<img align=right width=54.4% src="screenshots/gui-example.png"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" width="45%" height="14px" align="right" />
 <img align=right width=54.2% src="screenshots/android_widget2.png"/>
 <p align=left>
