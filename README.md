@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icons/logoAndroid.svg" width="25%"/>
+  <img src="assets/icons/logoAndroid.svg" width="30%"/>
 </p>
 <h2></h2> <!-- add a separating line -->
 <p align="center">
