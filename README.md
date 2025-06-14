@@ -1,7 +1,7 @@
-<h1 align="center">
-  Customfetch android app
-</h1>
-
+<p align="center">
+  <img src="assets/icons/logoAndroid.svg" width="25%"/>
+</p>
+<h2></h2> <!-- add a separating line -->
 <p align="center">
     An android widget app for diplaying system information, which its focus point is the performance and <b>customizability</b>
 </p>
