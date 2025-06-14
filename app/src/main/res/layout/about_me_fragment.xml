@@ -218,6 +218,67 @@
         android:text="Our trusted android app tester.\nThanks to him for reporting bugs that could've been CyberPunk 2077 worthy of note before v1.0.0"
         android:textColor="@color/subText" />
 
+    <!-- saberr26 github and discord -->
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/saberr26_discord_pfp"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Material3.Chip" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/github_mark" />
+
+        <TextView
+            android:id="@+id/saberr26_github_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="4dp"
+            android:text="@string/saberr26_github"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp" >
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/discord_mark_blue" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="4dp"
+            android:text="hocinehachmi."
+            android:textColor="@color/text" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:paddingHorizontal="20dp"
+        android:text="Created the logos for the project and android app.\nIt was complicated because nobody made a logo for a neofetch-like  program"
+        android:textColor="@color/subText" />
+
     <!-- Libraries -->
     <TextView
         android:layout_width="wrap_content"
