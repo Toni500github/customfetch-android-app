@@ -31,8 +31,6 @@ import android.appwidget.AppWidgetManager
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
 import android.text.Editable
 import android.text.SpannableStringBuilder
 import android.text.TextPaint
@@ -42,7 +40,6 @@ import android.text.TextWatcher
 import android.util.TypedValue
 import android.view.View
 import android.widget.LinearLayout
-import android.widget.Toast
 import androidx.core.graphics.toColorInt
 import androidx.core.text.toSpanned
 import com.skydoves.colorpickerview.listeners.ColorEnvelopeListener
@@ -54,9 +51,6 @@ import org.toni.customfetch_android.getAppSettingsPrefInt
 import org.toni.customfetch_android.getAppSettingsPrefString
 import org.toni.customfetch_android_lib.mainRender
 import org.toni.customfetch_android_lib.mainRenderStr
-import java.io.File
-import java.nio.file.Files
-import kotlin.io.path.Path
 
 /**
  * The configuration screen for the [Customfetch] AppWidget.

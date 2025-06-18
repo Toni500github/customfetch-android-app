@@ -6,12 +6,12 @@ A command-line, GUI app, android widget system information tool (or neofetch lik
 
 NOTE: Arguments that takes [<bool>] values, the values can be either: "true", 1, "enable" or leave it empty. Any other value will be treated as false.
 
-    -n, --no-logo [<bool>]      Do not display the logo
-    -N, --no-color [<bool>]     Do not output and parse colors. Useful for stdout or pipe operations
-    -L, --logo-only [<bool>]    Print only the logo
+    -n, --no-logo=[<bool>]      Do not display the logo
+    -N, --no-color=[<bool>]     Do not output and parse colors. Useful for stdout or pipe operations
+    -L, --logo-only=[<bool>]    Print only the logo
     -s, --source-path <path>    Path to the ascii art or image file to display
     -C, --config <path>         Path to the config file to use
-    -a, --ascii-logo-type [<type>]
+    -a, --ascii-logo-type=[<type>]
                                 The type of ASCII art to apply ("small" or "old").
                                 Basically will add "_<type>" to the logo filename.
                                 It will return the regular linux ascii art if it doesn't exist.
@@ -45,14 +45,14 @@ NOTE: Arguments that takes [<bool>] values, the values can be either: "true", 1,
                                 Not availabile in the android widget app.
 
     --bg-image <path>           Path to image to be used in the background in the GUI app (put "disable" for disabling in the config)
-    --wrap-lines [<bool>]       Wrap lines when printing in terminal
+    --wrap-lines=[<bool>]       Wrap lines when printing in terminal
     --logo-padding-top  <num>   Padding of the logo from the top
     --logo-padding-left <num>   Padding of the logo from the left
     --layout-padding-top <num>  Padding of the layout from the top
     --title-sep <string>        A character (or string) to use in ${'$'}<builtin.title_sep>
     --sep-reset <string>        A character (or string) that when encountered, will automatically reset color
-    --sep-reset-after [<bool>]  Reset color either before or after 'sep-reset'
-    --gen-config [<path>]       Generate default config file to config folder (if path, it will generate to the path)
+    --sep-reset-after=[<bool>]  Reset color either before or after 'sep-reset'
+    --gen-config=[<path>]       Generate default config file to config folder (if path, it will generate to the path)
                                 Will ask for confirmation if file exists already
 
     --color <string>            Replace instances of a color with another value.
@@ -481,7 +481,7 @@ fmt = "${'$'}{auto}Disk (%1): ${'$'}<disk(%1)>"
 # removable = External disks (USB, SATA, ...)
 # read-only = Disks with read-only filesystems
 # hidden    = Disks that are not really mounted by the user
-display-types = ["regular", "removable", "read-only"]
+display-types = ["regular", "external", "read-only"]
 
 # In some OSes such as NixOS or Android, there might be some directories that are bind mounted.
 # Bind mounted directories create an additional view of an existing directory,

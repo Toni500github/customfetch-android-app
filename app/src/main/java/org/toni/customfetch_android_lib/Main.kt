@@ -94,6 +94,7 @@ private fun parseArgs(context: Context, args: Array<String>, config: Config): St
         //LongOpt("loop-ms", LongOpt.REQUIRED_ARGUMENT, null, 1009),
         //LongOpt("bg-image", LongOpt.REQUIRED_ARGUMENT, null, 1010),
         LongOpt("color", LongOpt.REQUIRED_ARGUMENT, null, 1011),
+        LongOpt("gen-config-force", LongOpt.OPTIONAL_ARGUMENT, null, 1012),
 
         LongOpt(null, 0, null, 0)
     )
@@ -125,13 +126,14 @@ private fun parseArgs(context: Context, args: Array<String>, config: Config): St
                 1000 -> return listLogos(config.t.dataDir)
                 1001 -> config.t.sepResetAfter = strToBool(handleOptional(g.optarg, "true"))
                 1002 -> config.t.wrapLines = strToBool(handleOptional(g.optarg, "true"))
-                1003 -> generateConfig(File(g.optarg))
+                1003 -> generateConfig(File(g.optarg), context)
                 1004 -> config.t.sepReset = g.optarg
                 1005 -> config.t.titleSep = g.optarg
                 1006 -> config.t.logoPaddingTop = g.optarg.toInt()
                 1007 -> config.t.logoPaddingLeft = g.optarg.toInt()
                 1008 -> config.t.layoutPaddingTop = g.optarg.toInt()
                 1011 -> config.t.aliasColors.add(g.optarg)
+                1012 -> generateConfig(File(g.optarg), context, true)
             }
         }
     } catch (e: RuntimeException) {
@@ -144,7 +146,7 @@ private fun parseArgs(context: Context, args: Array<String>, config: Config): St
 private fun createConfig() {
     File(CONFIG_DIR).mkdirs()
     if (!File("$CONFIG_DIR/config.toml").exists())
-        generateConfig(File("$CONFIG_DIR/config.toml"))
+        generateConfig(File("$CONFIG_DIR/config.toml"), null, true)
 }
 
 private fun manageConfigStuff(context: Context, config: Config) {

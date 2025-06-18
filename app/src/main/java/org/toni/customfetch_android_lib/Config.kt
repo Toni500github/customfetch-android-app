@@ -82,8 +82,13 @@ data class Config(
     @SerialName("gui") val gui: GuiConfig = GuiConfig(),
 )
 
-fun generateConfig(file: File) {
-    //if (file.exists())
+fun generateConfig(file: File, context: Context?, force: Boolean = false) {
+    if (file.exists() && !force) {
+        if (context != null) {
+            die(context, "Config file already exists. Use --gen-config-force instead for overwriting")
+        }
+        return
+    }
     file.writeText(AUTOCONFIG)
 }
 
@@ -91,7 +96,7 @@ fun addAliasColor(context: Context, str: String, config: Config) {
     val pos = str.indexOf('=')
     if (pos == -1)
         die(context, "alias color '{}' does NOT have an equal sign '=' for separating config name and value\n" +
-                "For more check with --help")
+                "For more check the help section")
     val name = str.substring(0, pos)
     val value = str.substring(pos + 1)
 
@@ -103,7 +108,7 @@ fun overrideOption(context: Context, opt: String, config: Config) {
     val pos = opt.indexOf('=')
     if (pos == -1)
         die(context, "override option '{}' does NOT have an equal sign '=' for separating config name and value\n" +
-                "For more check with --help")
+                "For more check the help section")
     var name = opt.substring(0, pos)
     val value = opt.substring(pos + 1)
     // usually the user finds inconvenient to write "config.foo"
