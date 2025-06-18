@@ -497,27 +497,6 @@ hours = " hours"
 mins  = " mins"
 secs  = " seconds"
 
-# ${'$'}<os.pkgs> config
-[os.pkgs]
-# Ordered list of which packages installed count should be displayed in ${'$'}<os.pkgs>
-# remember to not enter the same name twice, else the world will finish
-# Choices: pacman, flatpak, dpkg, apk
-#
-# Pro-tip: if your package manager isn't listed here, yet,
-# use the bash command tag in the layout
-# e.g "Packages: ${'$'}(pacman -Q | wc -l) (pacman)"
-pkg-managers = ["pacman", "dpkg", "flatpak"]
-
-# Distros and package manager specific
-# package manager paths for getting the packages count from path.
-# They are arrays so you can add multiple paths.
-#
-# If you don't know what these ares, leave them by default settings
-pacman-dirs  = ["/var/lib/pacman/local/"]
-dpkg-files   = ["/var/lib/dpkg/status", "/data/data/com.termux/files/usr/var/lib/dpkg/status"]
-flatpak-dirs = ["/var/lib/flatpak/app/", "~/.local/share/flatpak/app/"]
-apk-files    = ["/var/lib/apk/db/installed"]
-
 # Desktop/Android app options
 [gui]
 
@@ -529,7 +508,7 @@ font = "Liberation Mono Normal 12"
 
 # These are the colors you can use in the GUI mode.
 # They overwrite the terminal colors from above.
-# They can only have hexcodes colors
+# They can only have hex codes colors
 black   = "!#000005"
 red     = "!#ff2000"
 green   = "!#00ff00"

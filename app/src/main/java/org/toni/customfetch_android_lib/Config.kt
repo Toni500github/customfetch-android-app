@@ -50,15 +50,6 @@ data class OsUptimeConfig(
 )
 
 @Serializable
-data class OsPkgsConfig(
-    @SerialName("pkg-managers") var pkgManagers: ArrayList<String> = arrayListOf("pacman", "dpkg", "flatpak"),
-    @SerialName("pacman-dirs") var pacmanDirs: ArrayList<String> = arrayListOf("/var/lib/pacman/local/"),
-    @SerialName("dpkg-files") var dpkgFiles: ArrayList<String> = arrayListOf("/var/lib/dpkg/status", "/data/data/com.termux/files/usr/var/lib/dpkg/status"),
-    @SerialName("flatpak-dirs") var flatpakDirs: ArrayList<String> = arrayListOf("/var/lib/flatpak/app/", "~/.local/share/flatpak/app/"),
-    @SerialName("apk-files") var apkFiles: ArrayList<String> = arrayListOf("/var/lib/apk/db/installed")
-)
-
-@Serializable
 data class GuiConfig(
     @SerialName("font") var font: String = "Monospace 12",
     @SerialName("black") var black: String = "!#000000",
@@ -88,7 +79,6 @@ data class Config(
     @SerialName("config") val t: ConfigTable = ConfigTable(),
     @SerialName("auto.disk") val autoDisk: AutoDiskConfig = AutoDiskConfig(),
     @SerialName("os.uptime") val osUptime: OsUptimeConfig = OsUptimeConfig(),
-    @SerialName("os.pkgs") val osPkgs: OsPkgsConfig = OsPkgsConfig(),
     @SerialName("gui") val gui: GuiConfig = GuiConfig(),
 )
 

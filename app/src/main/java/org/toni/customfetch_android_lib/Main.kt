@@ -154,7 +154,7 @@ private fun manageConfigStuff(context: Context, config: Config) {
     config.autoDisk.displayTypes.let {
         if (it.contains("regular"))
             config.autoDisk.displayTypesInt = config.autoDisk.displayTypesInt or DiskVolumeType.REGULAR.value
-        if (it.contains("removable"))
+        if (it.contains("removable") || it.contains("external"))
             config.autoDisk.displayTypesInt = config.autoDisk.displayTypesInt or DiskVolumeType.EXTERNAL.value
         if (it.contains("hidden"))
             config.autoDisk.displayTypesInt = config.autoDisk.displayTypesInt or DiskVolumeType.HIDDEN.value
@@ -168,23 +168,6 @@ private fun detectDistroFile(config: Config): String {
         return "${config.t.dataDir}/ascii/${config.args.customDistro}.txt"
 
     return "${config.t.dataDir}/ascii/android.txt"
-}
-
-fun mainRenderStr(context: Context, argsStr: String): String {
-    createConfig()
-    val args = argsStr.split(' ').toTypedArray()
-    val toml = Toml {
-        ignoreUnknownKeys = true
-    }
-    val tomlConfig = Paths.get(parseConfigArg(context, args)).readText()
-        .replace("\\e[", "\\u001B[") // Escape ANSI codes
-    val config: Config
-    try {
-        config = toml.decodeFromString(Config.serializer(), tomlConfig)
-    } catch (e: SerializationException) {
-        return e.message.toString()
-    }
-    return parseArgs(context, args, config)
 }
 
 private fun tokenizeUserCommand(input: String): Array<String> {
@@ -219,6 +202,25 @@ private fun tokenizeUserCommand(input: String): Array<String> {
 
     return tokens.toTypedArray()
 }
+
+fun mainRenderStr(context: Context, argsStr: String): String {
+    createConfig()
+
+    val args = tokenizeUserCommand(argsStr)
+    val toml = Toml {
+        ignoreUnknownKeys = true
+    }
+    val tomlConfig = Paths.get(parseConfigArg(context, args)).readText()
+        .replace("\\e[", "\\u001B[") // Escape ANSI codes
+    val config: Config
+    try {
+        config = toml.decodeFromString(Config.serializer(), tomlConfig)
+    } catch (e: SerializationException) {
+        return e.message.toString()
+    }
+    return parseArgs(context, args, config)
+}
+
 
 fun mainRender(context: Context, appWidgetId: Int, argsStr: String): List<SpannableStringBuilder> {
     createConfig()
