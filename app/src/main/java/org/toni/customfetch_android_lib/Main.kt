@@ -187,9 +187,43 @@ fun mainRenderStr(context: Context, argsStr: String): String {
     return parseArgs(context, args, config)
 }
 
+private fun tokenizeUserCommand(input: String): Array<String> {
+    val tokens = mutableListOf<String>()
+    val current = StringBuilder()
+    var inSingleQuote = false
+    var inDoubleQuote = false
+    var escaped = false
+
+    for (char in input) {
+        when {
+            escaped -> {
+                current.append(char)  // Always keep the escaped character
+                escaped = false
+            }
+            char == '\\' -> escaped = true
+            char == '\'' && !inDoubleQuote -> inSingleQuote = !inSingleQuote
+            char == '"' && !inSingleQuote -> inDoubleQuote = !inDoubleQuote
+            char.isWhitespace() && !inSingleQuote && !inDoubleQuote -> {
+                if (current.isNotEmpty()) {
+                    tokens.add(current.toString())
+                    current.clear()
+                }
+            }
+            else -> current.append(char)
+        }
+    }
+
+    if (current.isNotEmpty()) {
+        tokens.add(current.toString())
+    }
+
+    return tokens.toTypedArray()
+}
+
 fun mainRender(context: Context, appWidgetId: Int, argsStr: String): List<SpannableStringBuilder> {
     createConfig()
-    val args = argsStr.split(' ').toTypedArray()
+
+    val args = tokenizeUserCommand(argsStr)
     val toml = Toml {
         ignoreUnknownKeys = true
     }

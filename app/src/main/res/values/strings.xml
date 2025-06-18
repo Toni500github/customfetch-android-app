@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Customfetch Widget</string>
     <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure\n(insert command line options)</string>
+    <string name="configure">Configure (insert command-line like options)\nThese options are space divided, thus use quotes \"\" for strings with spaces and escape with \\</string>
     <string name="additional_truncate">Additional truncate text width\n(insert number bigger than <b>0.20</b>, or smaller to ignore)</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">Neofetch like program, which its focus point is the performance and customizability</string>
