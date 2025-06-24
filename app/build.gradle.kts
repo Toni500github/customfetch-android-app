@@ -92,7 +92,7 @@ dependencies {
     implementation(libs.colorpickerpref)
     implementation(libs.expandablelayout)
     implementation("net.peanuuutz.tomlkt:tomlkt:0.3.7")
-    implementation("me.gujun.android:span:1.7")
+    //implementation("me.gujun.android:span:1.7")
     implementation("com.otaliastudios.opengl:egloo:0.6.1")
 
     implementation(libs.androidx.core.ktx)
