@@ -104,6 +104,9 @@ class MainActivity : AppCompatActivity() {
             startActivityForResult(intent, TEST_CONFIG_FILE_RC)
         }
 
+        binding.checkUpdate.setOnTouchListener { view, event -> startAnimation(view, event) }
+        binding.checkUpdate.setOnClickListener { setFragment(CheckUpdateFragment()) }
+
         binding.aboutMe.setOnTouchListener { view, event -> startAnimation(view, event) }
         binding.aboutMe.setOnClickListener { setFragment(AboutMeFragment()) }
 
@@ -144,6 +147,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    @Deprecated("Deprecated in Java")
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
         if (resultCode == RESULT_OK && data != null && data.data != null) {

@@ -1,4 +1,7 @@
 pluginManagement {
+    plugins {
+        id("org.jetbrains.kotlin.android") version "2.1.10"
+    }
     repositories {
         google {
             content {
@@ -7,7 +10,6 @@ pluginManagement {
                 includeGroupByRegex("androidx.*")
             }
         }
-        maven { url = uri("https://jitpack.io") }
         mavenCentral()
         gradlePluginPortal()
     }

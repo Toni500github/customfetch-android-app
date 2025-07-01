@@ -94,6 +94,7 @@ dependencies {
     implementation("net.peanuuutz.tomlkt:tomlkt:0.3.7")
     //implementation("me.gujun.android:span:1.7")
     implementation("com.otaliastudios.opengl:egloo:0.6.1")
+    implementation("net.swiftzer.semver:semver:2.1.0")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
