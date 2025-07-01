@@ -108,7 +108,7 @@ class CheckUpdateFragment : Fragment() {
         CoroutineScope(Dispatchers.Main).launch {
             val json = JSONParser().getJSONFromUrl("https://api.github.com/repos/Toni500github/customfetch-android-app/releases/latest")
             try {
-                val release = json?.getString("tag_name") ?: ""
+                val release = json?.getString("tag_name") ?: throw IllegalArgumentException()
                 val semver = if (release[0] == 'v') SemVer.parse(release.substring(1)) else SemVer.parse(release)
                 if (semver < SemVer.parse(BuildConfig.VERSION_NAME)) {
                     binding.titleResult.setTextColor(Color.GREEN)
